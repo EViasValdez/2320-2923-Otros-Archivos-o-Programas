@@ -136,6 +136,6 @@ int main()
 			}
 			system ("pause");
         }
-    }while (op != 0);
+    } while (op != 0);
     return 0;
 }

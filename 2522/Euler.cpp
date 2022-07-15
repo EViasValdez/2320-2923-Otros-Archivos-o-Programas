@@ -13,10 +13,10 @@ void euler(int y, double x, double h, double k1, double k2, double k3, double k4
 	Res = 1;
 	Lim = 1.5;
 	
-	for(Ini;Ini<Lim;Ini=Ini+Inc)
+	for(Ini; Ini < Lim; Ini = Ini + Inc)
 	{
 		R = Res + (Inc * (2 * Ini * Res));
-		Res = Res + Inc * (((2 * Ini * Res) + (2 * (Ini + Inc) * R))/2);
+		Res = Res + Inc * (((2 * Ini * Res) + (2 * (Ini + Inc) * R)) / 2);
 		y++;
 		cout<< "y" << y << " = " << Res << "\n";
 	}
@@ -32,23 +32,23 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< " Bienvenido al Programa de Newton \n";
 	cout<< " f(x) = x ^ 2 - 9x + 9 = 0                 \n";
 	cout<< " Bienvenido al Programa de Newton  \n";
-	cout<< " x=1; \n\n";
-	for(int i=0;i<5;i++)
+	cout<< " x = 1; \n\n";
+	for (int i = 0; i<5; i++)
 	{
-		x = x-(((x * x) - (9 * x) + 9) / (2 * x - 9));
+		x = x - (((x * x) - (9 * x) + 9) / (2 * x - 9));
 		cout<< "   //--      " << "x" << x << "\n";
 	}
 	cout<< "\n\n";
 	cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
 	cout<< "   //--                         x=8;                           --//  \n\n";
 	
-	for(int i=0;i<5;i++)
+	for (int i = 0; i<5; i++)
 	{
-		y=y-(((y*y)-(9*y)+9)/(2*y-9));
+		y = y - (((y * y) - (9 * y) + 9)/(2 * y - 9));
 		cout<< "y" << y << "\n";
 	}
 }
-	void rk4(int y,double x,double h,double k1,double k2,double k3,double k4,double c,double Inc,double Ini,double Res,double Lim,double R,double R1){
+	void rk4(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
 		
 		cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
 		cout<< " y' = 2xy y(1)=1; y(1.5)  \n";
@@ -56,10 +56,9 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 		cout<< "INCREMENTO: ";
 		cin>> h;
 		x = 1;
-		y=1;
-		c=0;
+		y = 1;
+		c = 0;
 		Lim = 1.5;
-		
 		
 		cout<< "\n";
 		cout<< "RESULTADOS  \n";
@@ -67,10 +66,10 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 		for(x;x<Lim;x=x+h)
 		{
 			c++;
-			k1=2*(x)*(y);
-			k2=2*(x+(h/2))*(y+((h/2)*k1));
-			k3=2*(x+(h/2))*(y+((h/2)*k2));
-			k4=2*(x+h)*(y+(h*k3));
+			k1 = 2 * (x) * (y);
+			k2 = 2 * (x + (h / 2)) * (y + ((h / 2) * k1));
+			k3 = 2 * (x + (h / 2)) * (y + ((h / 2) * k2));
+			k4 = 2 * (x + h) * (y + (h * k3));
 			
 			y = y+(h/6)*(k1+(2*k2)+(2*k3)+k4);
 			
