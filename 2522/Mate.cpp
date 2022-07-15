@@ -12,13 +12,13 @@ int main()
     do{
         system("cls");
         cout.fixed;
-        cout.precision(5);
+        cout.precision (5);
         double Inc, Ini, Res, Lim, R, R1;
         cout<< "\n";
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--   Bienvenido al Programa de ECUACIONES DIFERENCIALES   --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
-        cout<< "   //--            Seleccione el metodo de solucion            --//  \n";
+        cout<< "   //--            Seleccione el método de solución            --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--                                                        --//  \n";
         cout<< "   //--      1. Euler Mejorado                                 --//  \n";
@@ -26,7 +26,7 @@ int main()
         cout<< "   //--      3. Newton                                        --//  \n";
         cout<< "   //--      0. Salir                                          --//  \n";
         cout<< "   //--                                                        --//  \n";
-        cout<< "   //--      Opcion: ";
+        cout<< "   //--      Opción: ";
         cin>>op;
 
         if (op == 1)
@@ -47,7 +47,7 @@ int main()
             Ini = 1;
             Res = 1;
             Lim = 1.5;
-            system("cls");
+            system ("cls");
 
             cout<< "\n";
             cout<< "   //------------------------------------------------------------------------------------//  \n";
@@ -62,7 +62,7 @@ int main()
                 cout<< "   //--      " << "y" << y << " = " << Res << "\n";
             }
             cout<< "\n\n";
-            system("pause");
+            system ("pause");
         }
         else if (op == 2)
         {
@@ -83,7 +83,7 @@ int main()
 			c = 0;
             Lim = 1.5;
 
-            system("cls");
+            system ("cls");
 
             cout<< "\n";
             cout<< "   //------------------------------------------------------------------------------------//  \n";
@@ -104,13 +104,13 @@ int main()
 				cout<< "   //--      " << "y" << c << " = " << y << "\n\n";
             }
             cout<< "\n\n";
-            system("pause");
+            system ("pause");
         }
         else if (op == 3)
         {
 			x = 1;
 			y = 8;
-			system("cls");
+			system ("cls");
 			cout<< "\n";
 			cout<< "   //------------------------------------------------------------//  \n";
 			cout<< "   //--                                                        --//  \n";
@@ -134,7 +134,7 @@ int main()
 				y = y - (((y * y) - (9 * y) + 9) / (2 * y - 9));
 				cout<< "   //--      " << "y" << y << "\n";
 			}
-			system("pause");
+			system ("pause");
         }
     }while (op != 0);
     return 0;
