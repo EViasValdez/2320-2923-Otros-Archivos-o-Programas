@@ -1,20 +1,21 @@
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
--- http://www.phpmyadmin.net
+-- https://www.phpmyadmin.net/
 --
--- Servidor: localhost
--- Tiempo de generación: 22-06-2020 a las 14:52:22
--- Versión del servidor: 5.5.24-log
--- Versión de PHP: 5.4.3
+-- Servidor: 127.0.0.1:3307
+-- Tiempo de generación: 15-07-2022 a las 03:13:14
+-- Versión del servidor: 10.6.5-MariaDB
+-- Versión de PHP: 7.4.26
 
-SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8mb4 */;
 
 --
 -- Base de datos: `universidad`
@@ -25,43 +26,25 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `alumno`
 --
-
-CREATE TABLE IF NOT EXISTS `alumno` (
-  `Eduardo Viñas Valdez` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+-- Error leyendo la estructura de la tabla universidad.alumno: #1932 - Table 'universidad.alumno' doesn't exist in engine
+-- Error leyendo datos de la tabla universidad.alumno: #1064 - Algo está equivocado en su sintax cerca 'FROM `universidad`.`alumno`' en la linea 1
 
 -- --------------------------------------------------------
 
 --
 -- Estructura de tabla para la tabla `maestros`
 --
-
-CREATE TABLE IF NOT EXISTS `maestros` (
-  `Angelica Sanchez` text NOT NULL,
-  `Saul Sandoval` text NOT NULL,
-  `Wendy Leon` text NOT NULL,
-  `Sandra Ordoñez Martinez` text NOT NULL,
-  `Ana Luisa Fonseca Reyes` text NOT NULL,
-  `Ingeniero Hernandez` text NOT NULL,
-  `Carmen Alarcon` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+-- Error leyendo la estructura de la tabla universidad.maestros: #1932 - Table 'universidad.maestros' doesn't exist in engine
+-- Error leyendo datos de la tabla universidad.maestros: #1064 - Algo está equivocado en su sintax cerca 'FROM `universidad`.`maestros`' en la linea 1
 
 -- --------------------------------------------------------
 
 --
 -- Estructura de tabla para la tabla `materias`
 --
-
-CREATE TABLE IF NOT EXISTS `materias` (
-  `Inteligencia emocional` text NOT NULL,
-  `Ingles` text NOT NULL,
-  `Estructura de datos` text NOT NULL,
-  `Calculo integral` text NOT NULL,
-  `Tutoria` text NOT NULL,
-  `Programación visual` text NOT NULL,
-  `Ingenieria de requerimientos de software` text NOT NULL,
-  `Fundamentos de base de datos` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+-- Error leyendo la estructura de la tabla universidad.materias: #1932 - Table 'universidad.materias' doesn't exist in engine
+-- Error leyendo datos de la tabla universidad.materias: #1064 - Algo está equivocado en su sintax cerca 'FROM `universidad`.`materias`' en la linea 1
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
