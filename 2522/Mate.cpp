@@ -10,7 +10,7 @@ int main()
 	
     system("Color 2");
     do{
-        system("cls");
+        system ("cls");
         cout.fixed;
         cout.precision (5);
         double Inc, Ini, Res, Lim, R, R1;
@@ -54,7 +54,7 @@ int main()
             cout<< "   //--                                   RESULTADOS                                   --//  \n";
             cout<< "   //------------------------------------------------------------------------------------//  \n\n";
 
-            for(Ini;Ini<Lim;Ini=Ini+Inc)
+            for (Ini; Ini < Lim; Ini = Ini + Inc)
             {
                 R = Res + (Inc * (2 * Ini * Res));
                 Res = Res + Inc * (((2 * Ini * Res) + (2 * (Ini + Inc) * R)) / 2);
