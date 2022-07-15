@@ -4,7 +4,7 @@
 #include<iomanip>
 using namespace std;
 
-void euler(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1){
+void euler (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1){
 	cout << "Bienvenido a euler: "<<endl;
 	
 	cout<<"INCREMENTO: "; cin>>Inc; cout<<endl;
@@ -13,7 +13,7 @@ void euler(int y, double x, double h, double k1, double k2, double k3, double k4
 	Res = 1;
 	Lim = 1.5;
 	
-	for(Ini; Ini < Lim; Ini = Ini + Inc)
+	for (Ini; Ini < Lim; Ini = Ini + Inc)
 	{
 		R = Res + (Inc * (2 * Ini * Res));
 		Res = Res + Inc * (((2 * Ini * Res) + (2 * (Ini + Inc) * R)) / 2);
@@ -24,7 +24,7 @@ void euler(int y, double x, double h, double k1, double k2, double k3, double k4
 }
 	
 	
-void newton(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+void newton (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
 	cout << "Bienvenido a newton: "<<endl;
 	x = 1;
 	y = 8;
@@ -33,7 +33,7 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< " f(x) = x ^ 2 - 9x + 9 = 0                 \n";
 	cout<< " Bienvenido al Programa de Newton  \n";
 	cout<< " x = 1; \n\n";
-	for (int i = 0; i<5; i++)
+	for (int i = 0; i < 5; i++)
 	{
 		x = x - (((x * x) - (9 * x) + 9) / (2 * x - 9));
 		cout<< "   //--      " << "x" << x << "\n";
@@ -42,13 +42,13 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
 	cout<< "   //--                         x=8;                           --//  \n\n";
 	
-	for (int i = 0; i<5; i++)
+	for (int i = 0; i < 5; i++)
 	{
 		y = y - (((y * y) - (9 * y) + 9)/(2 * y - 9));
 		cout<< "y" << y << "\n";
 	}
 }
-	void rk4(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+	void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
 		
 		cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
 		cout<< " y' = 2xy y(1)=1; y(1.5)  \n";
@@ -63,7 +63,7 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 		cout<< "\n";
 		cout<< "RESULTADOS  \n";
 		
-		for(x;x<Lim;x=x+h)
+		for (x; x < Lim; x = x + h)
 		{
 			c++;
 			k1 = 2 * (x) * (y);
@@ -78,8 +78,8 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 		}
 		cout<< "\n\n";
 	}
-int main(int argc, char *argv[]) {
-	double y,x,h,k1,k2,k3,k4,c;
+int main (int argc, char * argv[]) {
+	double y, x, h, k1, k2, k3, k4, c;
 	double Inc,Ini,Res,Lim,R,R1;
 
 	int ex,entrada;
@@ -91,7 +91,7 @@ int main(int argc, char *argv[]) {
 			
 		cin>>entrada;
 			
-		switch(entrada){
+		switch (entrada){
 			case 1: 
 				system("cls");
 				// Método
