@@ -23,7 +23,6 @@ void euler (int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< "\n\n";
 }
 	
-	
 void newton (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
 	cout << "Bienvenido a newton: "<<endl;
 	x = 1;
@@ -48,44 +47,45 @@ void newton (int y, double x, double h, double k1, double k2, double k3, double 
 		cout<< "y" << y << "\n";
 	}
 }
-	void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+
+void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+	cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
+	cout<< " y' = 2xy, y (1) = 1; y (1.5)  \n";
+	cout<< "INGRESE EL INCREMENTO\n";
+	cout<< "INCREMENTO: ";
+	cin>> h;
+	x = 1;
+	y = 1;
+	c = 0;
+	Lim = 1.5;
+	
+	cout<< "\n";
+	cout<< "RESULTADOS  \n";
+	
+	for (x; x < Lim; x = x + h)
+	{
+		c++;
+		k1 = 2 * (x) * (y);
+		k2 = 2 * (x + (h / 2)) * (y + ((h / 2) * k1));
+		k3 = 2 * (x + (h / 2)) * (y + ((h / 2) * k2));
+		k4 = 2 * (x + h) * (y + (h * k3));
 		
-		cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
-		cout<< " y' = 2xy y(1)=1; y(1.5)  \n";
-		cout<< "INGRESE EL INCREMENTO\n";
-		cout<< "INCREMENTO: ";
-		cin>> h;
-		x = 1;
-		y = 1;
-		c = 0;
-		Lim = 1.5;
+		y = y + (h / 6) * (k1 + (2 * k2) + (2 * k3) + k4);
 		
-		cout<< "\n";
-		cout<< "RESULTADOS  \n";
-		
-		for (x; x < Lim; x = x + h)
-		{
-			c++;
-			k1 = 2 * (x) * (y);
-			k2 = 2 * (x + (h / 2)) * (y + ((h / 2) * k1));
-			k3 = 2 * (x + (h / 2)) * (y + ((h / 2) * k2));
-			k4 = 2 * (x + h) * (y + (h * k3));
-			
-			y = y+(h/6)*(k1+(2*k2)+(2*k3)+k4);
-			
-			cout<< "" << "x" << c << " = " << x << "\n";
-			cout<< "" << "y" << c << " = " << y << "\n\n";
-		}
-		cout<< "\n\n";
+		cout<< "" << "x" << c << " = " << x << "\n";
+		cout<< "" << "y" << c << " = " << y << "\n\n";
 	}
+	cout<< "\n\n";
+}
+
 int main (int argc, char * argv[]) {
 	double y, x, h, k1, k2, k3, k4, c;
-	double Inc,Ini,Res,Lim,R,R1;
+	double Inc, Ini, Res, Lim, R, R1;
 
 	int ex,entrada;
-	ex=0;
+	ex = 0;
 
-	while(ex==0){
+	while (ex == 0){
 		cout<<"Bienvenido"<<endl;
 		cout<<"Men�"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.M�todo nuevo"<<endl<<"4.salir"<<endl<<"R = ";
 			
@@ -101,7 +101,7 @@ int main (int argc, char * argv[]) {
 			case 2: 
 				system("cls");
 				// Método
-				newton(Inc, Ini, Res, Lim,R,R1,y,x,h,k1,k2,k3,k4,c);
+				newton(Inc, Ini, Res, Lim, R, R1, y, x, h, k1, k2, k3, k4, c);
 				// Fin de método
 			break;
 			case 3: 
