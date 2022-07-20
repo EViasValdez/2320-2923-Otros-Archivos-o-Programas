@@ -1,4 +1,4 @@
-# Otros archivos o programas de cuatrimestres del 2320 al 2522
+# Otros archivos o programas de cuatrimestres
 <!----Descripción---->
 <!----Separador de la descripción ---->
 <!----Notas---->
