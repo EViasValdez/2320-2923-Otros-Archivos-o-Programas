@@ -5,7 +5,7 @@
 using namespace std;
 
 void euler (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1){
-	cout << "Bienvenido a euler: "<<endl;
+	cout << "Bienvenido al programa de euler: "<<endl;
 	
 	cout<<"INCREMENTO: "; cin>>Inc; cout<<endl;
 	y = 0;

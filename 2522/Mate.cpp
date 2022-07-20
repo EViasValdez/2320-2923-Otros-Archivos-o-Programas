@@ -13,12 +13,14 @@ int main()
         system ("cls");
         cout.fixed;
         cout.precision (5);
+
         double Inc, Ini, Res, Lim, R, R1;
+
         cout<< "\n";
         cout<< "   //------------------------------------------------------------//  \n";
-        cout<< "   //--   Bienvenido al Programa de ECUACIONES DIFERENCIALES   --//  \n";
+        cout<< "   //--   Bienvenido al Programa de ecuaciones diferenciales   --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
-        cout<< "   //--            Seleccione el método de solución            --//  \n";
+        cout<< "   //--            Seleccione el metodo de solucion            --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--                                                        --//  \n";
         cout<< "   //--      1. Euler Mejorado                                 --//  \n";
@@ -26,7 +28,7 @@ int main()
         cout<< "   //--      3. Newton                                        --//  \n";
         cout<< "   //--      0. Salir                                          --//  \n";
         cout<< "   //--                                                        --//  \n";
-        cout<< "   //--      Opción: ";
+        cout<< "   //--      Opcion: ";
         cin>>op;
 
         if (op == 1)
@@ -35,7 +37,7 @@ int main()
             cout<< "\n";
             cout<< "   //------------------------------------------------------------//  \n";
             cout<< "   //--                                                        --//  \n";
-            cout<< "   //--        Bienvenido al Programa de EULER MEJORADO        --//  \n";
+            cout<< "   //--        Bienvenido al Programa de Euler mejorado        --//  \n";
             cout<< "   //--              y' = 2xy y(1) = 1; y (1.5)                --//  \n";
             cout<< "   //--                                                        --//  \n";
             cout<< "   //------------------------------------------------------------//  \n";
@@ -70,7 +72,7 @@ int main()
             cout<< "\n";
             cout<< "   //------------------------------------------------------------//  \n";
             cout<< "   //--                                                        --//  \n";
-            cout<< "   //--          Bienvenido al Programa de RUNGE KUTA          --//  \n";
+            cout<< "   //--          Bienvenido al programa de Runge-Kuta          --//  \n";
             cout<< "   //--             y' = 2xy y (1) = 1; y (1.5)                --//  \n";
             cout<< "   //--                                                        --//  \n";
             cout<< "   //------------------------------------------------------------//  \n";
@@ -114,11 +116,11 @@ int main()
 			cout<< "\n";
 			cout<< "   //------------------------------------------------------------//  \n";
 			cout<< "   //--                                                        --//  \n";
-			cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
+			cout<< "   //--            Bienvenido al programa de Newton            --//  \n";
 			cout<< "   //--            f(x)= x ^ 2 - 9x + 9 = 0                    --//  \n";
 			cout<< "   //--                                                        --//  \n";
 			cout<< "   //------------------------------------------------------------//  \n";
-			cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
+			cout<< "   //--            Bienvenido al programa de Newton            --//  \n";
 			cout<< "   //--                         x = 1;                           --//  \n\n";
 			for (int i = 0; i < 5; i++)
 			{
@@ -126,7 +128,7 @@ int main()
 				cout<< "   //--      " << "x" << x << "\n";
 			}
 			cout<< "\n\n";
-			cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
+			cout<< "   //--            Bienvenido al programa de Newton            --//  \n";
 			cout<< "   //--                         x = 8;                           --//  \n\n";
 			
 			for (int i = 0; i < 5; i++)
