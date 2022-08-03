@@ -1,8 +1,8 @@
-body{
+body {
     background-color: rgb(160, 0, 0);
     background-size: cover;
 }
-#TextoTitulo{
+#TextoTitulo {
     color: rgb(255, 255, 255);
     font-size: 48px;
     font-family: "Sarala";
@@ -10,21 +10,21 @@ body{
     text-align: center;
     animation: 2s animacion-arriba ease-out;
 }
-#TextoPrimario{
+#TextoPrimario {
     color: rgb(255, 255, 255);
     font-family: "Lato";
     font-size: 24px;
     text-align: center;
     animation: 2s animacion-arriba ease-out;
 }
-#TextoDatos{
+#TextoDatos {
     color: rgb(255, 255, 255);
     font-family: "Lato";
     font-size: 28px;
     text-align: center;
     animation: 2s animacion-abajo ease-out;
 }
-#ValorLados, #ValorDivision{
+#ValorLados, #ValorDivision {
     color: rgb(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
     font-family: "Lato";
@@ -37,7 +37,7 @@ body{
     text-align: center;
     animation: 2s animacion-abajo ease-out;
 }
-#ValorLados:hover, #ValorDivision:hover{
+#ValorLados:hover, #ValorDivision:hover {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
     font-family: "Lato";
@@ -50,7 +50,7 @@ body{
     text-align: center;
     transition: 0.4s ease-in-out;
 }
-#Funcion{
+#Funcion {
     color: rgb(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
     font-family: "Lato";
@@ -63,7 +63,7 @@ body{
     text-align: center;
     animation: 2s animacion-abajo ease-out;
 }
-#Funcion:active{
+#Funcion:active {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
     font-family: "Lato";
