@@ -1,11 +1,11 @@
 var LimInferior = 0;
 var LimSuperior = 0.16;
 
-function funcion1(){
+function funcion1() {
     var probabilidad = parseFloat(document.getElementById("ValorLados")).value;
     var division = parseFloat(document.getElementById("ValorDivision")).value;
 
-    if (probabilidad == "" || division == ""){
+    if (probabilidad == "" || division == "") {
         alert("No ha ingresado ningun valor");
     }
     else{
@@ -16,6 +16,6 @@ function funcion1(){
         console.log(rprob);
     }
 }
-function click(){
+function click() {
     funcion1();
 }
