@@ -1,11 +1,11 @@
-﻿function accion(){
+﻿function accion() {
     conversion();
 }
 
-function conversion(){
+function conversion() {
     let numero = document.getElementById("Numero").value;
 
-    if (numero = ""){
+    if (numero = "") {
       alert("No ha ingresado ningun valor");
     }
     else
