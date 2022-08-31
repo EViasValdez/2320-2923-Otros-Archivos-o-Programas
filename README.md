@@ -6,9 +6,14 @@ hechos para ciertas materias donde pidieron hacer algún tipo de actividad espec
 <!----Notas---->
 **Notas**
 
-**- Nota de ejemplo.**
+**- El formato de presentacion para este repositorio sera completamente difrente.**
 
-**- Nota de ejemplo.**
+**- Hacen falta algunos elementos que no he puesto aqui por el momento.**
 <!----Separador de las notas---->
 <!----Directorio con ubicación de archivos---->
+# Directorio con ubicación de archivos
+## 2320
+En esta carpeta la mayoria de los archivos son SQL en formato MariaDB.
+<!----Separador---->
+## 2421
 <!----Separador del directorio con ubicación de archivos---->
