@@ -9,7 +9,7 @@ int main()
     double op, y, x, h, k1, k2, k3, k4, c;
 	
     system("Color 2");
-    do{
+    do {
         system ("cls");
         cout.fixed;
         cout.precision (5);

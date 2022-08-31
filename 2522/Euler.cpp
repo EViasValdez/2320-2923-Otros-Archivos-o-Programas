@@ -4,7 +4,7 @@
 #include<iomanip>
 using namespace std;
 
-void euler (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1){
+void euler (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1) {
 	cout << "Bienvenido al programa de euler: "<<endl;
 	
 	cout<<"INCREMENTO: "; cin>>Inc; cout<<endl;
@@ -23,7 +23,7 @@ void euler (int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< "\n\n";
 }
 	
-void newton (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+void newton (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
 	cout << "Bienvenido a newton: "<<endl;
 	x = 1;
 	y = 8;
@@ -48,7 +48,7 @@ void newton (int y, double x, double h, double k1, double k2, double k3, double 
 	}
 }
 
-void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1){
+void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
 	cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
 	cout<< " y' = 2xy, y (1) = 1; y (1.5)  \n";
 	cout<< "INGRESE EL INCREMENTO\n";
@@ -85,13 +85,13 @@ int main (int argc, char * argv[]) {
 	int ex,entrada;
 	ex = 0;
 
-	while (ex == 0){
+	while (ex == 0) {
 		cout<<"Bienvenido"<<endl;
 		cout<<"Men�"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.M�todo nuevo"<<endl<<"4.salir"<<endl<<"R = ";
 			
 		cin>>entrada;
 			
-		switch (entrada){
+		switch (entrada) {
 			case 1: 
 				system("cls");
 				// Método
