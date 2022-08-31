@@ -13,7 +13,7 @@ hechos para ciertas materias donde pidieron hacer algún tipo de actividad espec
 <!----Directorio con ubicación de archivos---->
 # Directorio con ubicación de archivos
 ## 2320
-En esta carpeta la mayoria de los archivos son SQL en formato MariaDB.
+En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todos los que hize durante la materia de base de datos), otros archivos se encuentran en repositorios mas subidos.
 ###### primaria_benito_juarez - 22/06/20
 ###### libreria - 24/07/20
 ###### universidad_upt - 25/07/20
@@ -22,12 +22,9 @@ En esta carpeta la mayoria de los archivos son SQL en formato MariaDB.
 ###### tienda_instrumentos - 15/07/22
 ###### universidad - 15/07/20
 
-<!----Separador---->
 ## 2421
 <!----Separador---->
 ## 2522
-
 <!----Separador---->
 ## 2622
-
 <!----Separador del directorio con ubicación de archivos---->
