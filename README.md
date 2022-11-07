@@ -27,7 +27,11 @@ En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todo
 ## 2421
 ###### departamentos - 19/07/2022
 
-## 2522
 <!----Separador---->
+
+## 2522
+###### Euler
+###### Mate
+
 ## 2622
 <!----Separador del directorio con ubicación de archivos---->
