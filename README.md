@@ -22,8 +22,11 @@ En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todo
 ###### clinica_medica - 31/07/20
 ###### clinica_medica_consulta_update - 01/08/20
 
-## 2421
 <!----Separador---->
+
+## 2421
+###### departamentos - 19/07/2022
+
 ## 2522
 <!----Separador---->
 ## 2622
