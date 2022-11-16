@@ -16,10 +16,10 @@ hechos para ciertas materias donde pidieron hacer algún tipo de actividad espec
 En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todos los que hize durante la materia de base de datos), otros archivos se encuentran en repositorios mas subidos.
 
 ###### primaria_benito_juarez - 22/06/20
-
+Base de datos que era para simular una primaria.
 
 ###### universidad - 22/06/20
-
+Esta base de datos la hice para registrar datos de una universidad.
 
 ###### libreria - 24/07/20
 
