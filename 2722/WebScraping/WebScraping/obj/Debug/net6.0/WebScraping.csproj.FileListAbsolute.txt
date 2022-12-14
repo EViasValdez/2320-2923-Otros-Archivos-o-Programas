@@ -1,0 +1,5 @@
+F:\Lenguajes y automatas\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.csproj.AssemblyReference.cache
+F:\Lenguajes y automatas\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lenguajes y automatas\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfoInputs.cache
+F:\Lenguajes y automatas\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfo.cs
+F:\Lenguajes y automatas\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.csproj.CoreCompileInputs.cache
