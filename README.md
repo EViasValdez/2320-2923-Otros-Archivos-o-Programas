@@ -41,11 +41,16 @@ Esta base de datos la hice para registrar datos de una universidad.
 <!----Separador---->
 
 ## 2421
+Esta carpeta solo tiene un archivo que se hizo en sql.
+
 ###### departamentos - 19/07/2022
+
 
 <!----Separador---->
 
 ## 2522
+Aqui se encuentran
+
 ###### Euler
 ###### Mate
 
