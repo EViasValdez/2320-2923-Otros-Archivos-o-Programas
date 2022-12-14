@@ -1,0 +1,30 @@
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.exe
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.deps.json
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.runtimeconfig.json
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.dll
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.pdb
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.dll
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\refint\Expresiones.dll
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.pdb
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.genruntimeconfig.cache
+C:\Users\defaultuser0\source\repos\Expresiones\Expresiones\obj\Debug\net6.0\ref\Expresiones.dll
+F:\Lenguajes y automatas\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.exe
+F:\Lenguajes y automatas\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.deps.json
+F:\Lenguajes y automatas\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.runtimeconfig.json
+F:\Lenguajes y automatas\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.dll
+F:\Lenguajes y automatas\Expresiones\Expresiones\bin\Debug\net6.0\Expresiones.pdb
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.csproj.AssemblyReference.cache
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.AssemblyInfoInputs.cache
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.AssemblyInfo.cs
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.csproj.CoreCompileInputs.cache
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.dll
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\refint\Expresiones.dll
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.pdb
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\Expresiones.genruntimeconfig.cache
+F:\Lenguajes y automatas\Expresiones\Expresiones\obj\Debug\net6.0\ref\Expresiones.dll
