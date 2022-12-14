@@ -52,7 +52,10 @@ Esta carpeta solo tiene un archivo que se hizo en sql.
 Aqui se encuentran
 
 ###### Euler
+Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria.
+
 ###### Mate
+Este programa es similar aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
