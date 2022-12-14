@@ -41,7 +41,7 @@ Esta base de datos la hice para registrar datos de una universidad.
 <!----Separador---->
 
 ## 2421
-Esta carpeta solo tiene un archivo que se hizo en sql.
+Esta carpeta solo tiene un archivo que se hizo en SQL.
 
 ###### departamentos - 19/07/2022
 
@@ -55,7 +55,7 @@ Aqui se encuentran
 Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria.
 
 ###### Mate
-Este programa es similar aunque con algunos arreglos.
+Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
