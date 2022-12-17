@@ -24,7 +24,7 @@ Base de datos que era para simular una primaria.
 Esta base de datos la hice para registrar datos de una universidad.
 
 ###### libreria - 24/07/20
-
+Para esta se eligieron varios libros
 
 ###### tienda_instrumentos - 07/20
 
@@ -44,19 +44,23 @@ Esta base de datos la hice para registrar datos de una universidad.
 Esta carpeta solo tiene un archivo que se hizo en SQL.
 
 ###### departamentos - 19/07/2022
-
+La tabla esta dividida entre codigo, nombre y departamento, con el valor de codigo como llave primaria.
 
 <!----Separador---->
 
 ## 2522
-Aqui se encuentran
+Aqui se encuentran los proyectos
 
 ###### Euler
-Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria.
+Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria II.
 
 ###### Mate
 Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
+
+
+## 2722
+###### 
 <!----Separador del directorio con ubicación de archivos---->
