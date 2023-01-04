@@ -61,6 +61,7 @@ namespace Expresiones
                 Console.WriteLine("1 - Si");
                 Console.WriteLine("2 - No");
                 int opc = int.Parse(Console.ReadLine());
+                
                 if (opc == 1)
                 {
                     menu();

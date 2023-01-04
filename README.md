@@ -62,5 +62,6 @@ Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 
 ## 2722
-###### 
+###### Expresiones - 10/22
+###### WebScraping - 11/22
 <!----Separador del directorio con descripcion de los programas---->
