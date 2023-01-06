@@ -13,6 +13,7 @@ namespace webscraping
         static void Main(string[] args)
         {
             List<string> lista = new List<string>();
+            
             HtmlWeb web = new HtmlWeb();
             HtmlDocument doc = web.Load("https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/aprende-html-tutorial-para-principiantes/");
 

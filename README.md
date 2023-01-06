@@ -13,7 +13,7 @@ hechos para ciertas materias donde pidieron hacer algún tipo de actividad espec
 **- Hacen falta algunos elementos que no he puesto aqui por el momento.**
 <!----Separador de las notas---->
 <!----Directorio con descripcion de los programas---->
-# Directorio con ubicación de archivos
+# Descripcion de los programas
 ## 2320
 En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todos los que hize durante la materia de base de datos), otros archivos se encuentran en repositorios mas subidos.
 
