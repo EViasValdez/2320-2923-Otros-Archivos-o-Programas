@@ -27,7 +27,7 @@ Esta base de datos la hice para registrar datos de una universidad.
 Para esta se eligieron varios libros
 
 ###### tienda_instrumentos - 07/20
-
+Base de datos que usa como base una tienda de instrumentos
 
 ###### universidad_upt - 25/07/20
 
@@ -49,7 +49,7 @@ La tabla esta dividida entre codigo, nombre y departamento, con el valor de codi
 <!----Separador---->
 
 ## 2522
-Aqui se encuentran los proyectos
+Aqui se encuentran los programas que se hicieron para poder.
 
 ###### Euler
 Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria II.

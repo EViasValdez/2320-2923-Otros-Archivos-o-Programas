@@ -7,9 +7,9 @@ namespace Expresiones
     {
         static void Main(string[] args)
         {
-            menu();
+            Menu();
         }
-        public static void menu()
+        public static void Menu()
         {
 
             Console.WriteLine("█████████████████████████████████████");
@@ -19,34 +19,34 @@ namespace Expresiones
             Console.WriteLine("█ 2. Validar numeros telefonicos    █");
             Console.WriteLine("█ 3. Salir                          █");
             Console.WriteLine("█████████████████████████████████████");
-            Console.WriteLine("Introduzca una opcion");
-            int opcion = int.Parse(Console.ReadLine());
+            Console.WriteLine("Introduzca una Opcion");
+            int Opcion = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Introduzca una cadena");
-            string cadena = Console.ReadLine();
-            switch (opcion)
+            string Cadena = Console.ReadLine();
+            switch (Opcion)
             {
                 case 1:
-                    url(cadena);
+                    url(Cadena);
                 break;
 
                 case 2:
-                    numero(cadena);
+                    numero(Cadena);
                 break;
 
                 case 3:
-                    exit();
+                    Exit();
                 break;
                 
                 default:
                     Console.WriteLine("Opcion no valida por favor intente de nuevo");
                     Console.ReadLine();
                     Console.Clear();
-                    menu();
+                    Menu();
                 break;
             }
         }
-        public static void url(string cadena)
+        public static void url(string Cadena)
         {
             string pattern = "^[A-Z][a-zA-Z]+$";
             Console.Write($"La expresion regular a validar es: {pattern}");
@@ -54,21 +54,21 @@ namespace Expresiones
             try
             {
                 Console.WriteLine("{0} {1} una cadena valida.",
-                              cadena,
-                              Regex.IsMatch(cadena, pattern, RegexOptions.IgnoreCase)
+                              Cadena,
+                              Regex.IsMatch(Cadena, pattern, RegexOptions.IgnoreCase)
                                             ? "es" : "no es", TimeSpan.FromMilliseconds(500));
                 Console.WriteLine("¿Quiere volver al menu?");
                 Console.WriteLine("1 - Si");
                 Console.WriteLine("2 - No");
-                int opc = int.Parse(Console.ReadLine());
+                int Opc = int.Parse(Console.ReadLine());
                 
-                if (opc == 1)
+                if (Opc == 1)
                 {
-                    menu();
+                    Menu();
                 }
                 else
                 {
-                    exit();
+                    Exit();
                 }
             }
             catch (RegexMatchTimeoutException e)
@@ -77,7 +77,7 @@ namespace Expresiones
                               e.MatchTimeout, e.Input);
             }
         }
-        public static void numero(string cadena)
+        public static void numero(string Cadena)
         {
             string pattern = "([+52]|)((\\s?[0-9]{3}(-?|\\s?)){2}[0-9]{4}|(\\s?[0-9]{2}(-?|\\s?)){4}[0-9]{2})";
             Console.Write($"La expresion regular a validar es: {pattern}");
@@ -85,20 +85,20 @@ namespace Expresiones
             try
             {
                 Console.WriteLine("{0} {1} una cadena valida.",
-                              cadena,
-                              Regex.IsMatch(cadena, pattern, RegexOptions.IgnoreCase)
+                              Cadena,
+                              Regex.IsMatch(Cadena, pattern, RegexOptions.IgnoreCase)
                                             ? "es" : "no es", TimeSpan.FromMilliseconds(500));
-                Console.WriteLine("¿Quiere volver al menu?");
+                Console.WriteLine("¿Quiere volver al Menu?");
                 Console.WriteLine("1 - Si");
                 Console.WriteLine("2 - No");
-                int opc = int.Parse(Console.ReadLine());
-                if (opc == 1)
+                int Opc = int.Parse(Console.ReadLine());
+                if (Opc == 1)
                 {
-                    menu();
+                    Menu();
                 }
                 else
                 {
-                    exit();
+                    Exit();
                 }
             }
             catch (RegexMatchTimeoutException e)
@@ -107,7 +107,7 @@ namespace Expresiones
                               e.MatchTimeout, e.Input);
             }
         }
-        public static void exit()
+        public static void Exit()
         {
             Environment.Exit(1);
         }
