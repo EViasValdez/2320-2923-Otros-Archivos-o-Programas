@@ -3765,11 +3765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Lenguajes y automatas\\WebScraping\\WebScraping\\WebScraping.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\WebScraping\\WebScraping\\WebScraping.csproj",
       "projectName": "WebScraping",
-      "projectPath": "F:\\Lenguajes y automatas\\WebScraping\\WebScraping\\WebScraping.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\WebScraping\\WebScraping\\WebScraping.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "F:\\Lenguajes y automatas\\WebScraping\\WebScraping\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\WebScraping\\WebScraping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3823,7 +3823,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
