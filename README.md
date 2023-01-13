@@ -30,13 +30,13 @@ Para esta se eligieron varios libros
 Base de datos que usa como base una tienda de instrumentos
 
 ###### universidad_upt - 25/07/20
-
+Texto por ser colocado.
 
 ###### clinica_medica - 31/07/20
-
+Texto por ser colocado.
 
 ###### clinica_medica_consulta_update - 01/08/20
-
+Texto por ser colocado.
 
 <!----Separador---->
 
