@@ -59,13 +59,13 @@ Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
-Add files via upload
+Texto por ser colocado.
 
 ## 2722
 ###### Expresiones - 10/22
-Add files via upload
+Texto por ser colocado.
 
 ###### WebScraping - 11/22
-Add files via upload
+Texto por ser colocado.
 
 <!----Separador del directorio con descripcion de los programas---->
