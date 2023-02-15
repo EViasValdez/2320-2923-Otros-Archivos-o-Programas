@@ -30,7 +30,7 @@ Para esta se eligieron varios libros
 Base de datos que usa como base una tienda de instrumentos
 
 ###### universidad_upt - 25/07/20
-Texto por ser colocado.
+Al igual que con una de las anteriores esta basada en una universidad pero esta es de la universidad a la que asisto.
 
 ###### clinica_medica - 31/07/20
 Texto por ser colocado.
@@ -66,6 +66,6 @@ Texto por ser colocado.
 Texto por ser colocado.
 
 ###### WebScraping - 11/22
-Texto por ser colocado.
+Programa que usa el metodo de obtener texto de un sitio web.
 
 <!----Separador del directorio con descripcion de los programas---->
