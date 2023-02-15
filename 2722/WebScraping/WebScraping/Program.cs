@@ -32,7 +32,6 @@ namespace webscraping
                     Console.WriteLine($"Se ha seleccionado {m}");
                 }
             }
-
         }
     }
 }
