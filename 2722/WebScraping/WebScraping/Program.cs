@@ -12,22 +12,22 @@ namespace webscraping
     {
         static void Main(string[] args)
         {
-            List<string> lista = new List<string>();
+            List<string> Lista = new List<string>();
             
-            HtmlWeb web = new HtmlWeb();
-            HtmlDocument doc = web.Load("https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/aprende-html-tutorial-para-principiantes/");
+            HtmlWeb Web = new HtmlWeb();
+            HtmlDocument Doc = Web.Load("https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/aprende-html-tutorial-para-principiantes/");
 
-            foreach (var nodo in doc.DocumentNode.CssSelect(".article--content"))
+            foreach (var Nodo in Doc.DocumentNode.CssSelect(".article--content"))
             {
-                var nodoancho = nodo.CssSelect("p").First();
-                lista.Add(nodoancho.InnerHtml);
+                var NodoAncho = Nodo.CssSelect("p").First();
+                Lista.Add(NodoAncho.InnerHtml);
             }
-            String search = @"[¿][A-Za-z áéíóú]*[?]";
-            foreach (var item in lista)
+            String Search = @"[¿][A-Za-z áéíóú]*[?]";
+            foreach (var Item in Lista)
             {
-                Console.WriteLine($"Resultado {item}");
-                MatchCollection matches = Regex.Matches(item, search);
-                foreach (Match m in matches)
+                Console.WriteLine($"Resultado {Item}");
+                MatchCollection Matches = Regex.Matches(Item, Search);
+                foreach (Match m in Matches)
                 {
                     Console.WriteLine($"Se ha seleccionado {m}");
                 }
