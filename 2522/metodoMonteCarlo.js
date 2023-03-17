@@ -1,21 +1,21 @@
 var LimInferior = 0;
 var LimSuperior = 0.16;
 
-function funcion1() {
-    var probabilidad = parseFloat(document.getElementById("ValorLados")).value;
-    var division = parseFloat(document.getElementById("ValorDivision")).value;
+function Funcion1() {
+    var Probabilidad = parseFloat(document.getElementById("ValorLados")).value;
+    var Division = parseFloat(document.getElementById("ValorDivision")).value;
 
-    if (probabilidad == "" || division == "") {
+    if (Probabilidad == "" || Division == "") {
         alert("No ha ingresado ningun valor");
     }
     else{
-        var rprob;
+        var RProb;
 
-        rprob = probabilidad + division;
-        alert(rprob);
-        console.log(rprob);
+        RProb = Probabilidad + Division;
+        alert(RProb);
+        console.log(RProb);
     }
 }
 function click() {
-    funcion1();
+    Funcion1();
 }
