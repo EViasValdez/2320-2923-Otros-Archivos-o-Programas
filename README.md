@@ -12,6 +12,7 @@ hechos para ciertas materias donde pidieron hacer algún tipo de actividad espec
 
 **- Hacen falta algunos elementos que no he puesto aqui por el momento.**
 <!----Separador de las notas---->
+
 <!----Directorio con descripcion de los programas---->
 # Descripcion de los programas
 ## 2320
