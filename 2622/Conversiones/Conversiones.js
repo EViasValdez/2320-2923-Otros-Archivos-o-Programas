@@ -1,7 +1,6 @@
 ﻿function accion() {
     conversion();
 }
-
 function conversion() {
     let numero = document.getElementById("Numero").value;
 
