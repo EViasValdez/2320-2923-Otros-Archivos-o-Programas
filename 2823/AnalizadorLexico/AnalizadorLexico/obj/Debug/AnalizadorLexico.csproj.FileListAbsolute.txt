@@ -1,0 +1,11 @@
+E:\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+E:\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+E:\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.AnalizadorLexico.resources
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+E:\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
