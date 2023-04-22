@@ -90,5 +90,6 @@ Programa que usa el metodo de obtener texto de un sitio web.
 <!----Separador---->
 
 ## 2320
-###### Por ser escrito
+
+
 <!----Separador del directorio con descripcion de los programas---->
