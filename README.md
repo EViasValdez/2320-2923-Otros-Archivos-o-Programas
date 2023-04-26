@@ -1,4 +1,4 @@
-# Otros archivos o programas de cuatrimestres
+# Otros archivos o programas de cuatrimestres anteriores
 
 <!----Descripción---->
 Para el repositorio que tengo aquí y como su nombre lo indica dejo aquí algunos archivos o programas
