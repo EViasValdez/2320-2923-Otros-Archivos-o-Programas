@@ -132,3 +132,17 @@ D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de 
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojAssemblyReference.cache
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CoreCompileInputs.cache
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CopyComplete
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CopyComplete
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
