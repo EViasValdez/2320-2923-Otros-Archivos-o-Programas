@@ -1,0 +1,298 @@
+body {
+    background: rgb(15,208,0);
+    background: radial-gradient(circle, rgba(15,208,0,1) 0%, rgba(0,0,136,1) 100%);
+    max-width: 2080px;
+}
+@font-face {
+    font-family: "Quikhand";
+    src: url("Fuentes/Quikhand.ttf");
+}
+@font-face {
+    font-family: "Alef";
+    src: url("Fuentes/Alef.ttf");
+}
+@keyframes animacion-arriba {
+    0% {
+      opacity: 0;
+      transform: translateY(100%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+}
+.TextoTitulo {
+    color: rgba(255, 242, 242);
+	text-align: center;
+	font-family: "Quikhand";
+	font-size: 80px;
+    font-weight: bold;
+	animation: 2s animacion-arriba ease-out;
+}
+.TextoSubtitulo {
+    color: rgba(255, 242, 242);
+    text-align: center;
+    font-family: "Alef";
+    font-size: 20px;
+    animation: 2s animacion-arriba ease-out;
+}
+.Navegador {
+    background-color: rgb(255, 238, 0);
+    font-family: "Alef";
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+    animation: 2s animacion-arriba ease-out;
+}
+.ONav {
+    color: rgba(0, 0, 0);
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+    padding: 20px;
+    text-decoration: none;
+}
+.Navegador:hover {
+    background-color: rgba(209, 7, 0);
+    font-family: "Alef";
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+    animation: 2s animacion-arriba ease-out;
+}
+.ONav:hover {
+    color: rgba(255, 255, 255);
+    padding: 80px;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+.Texto1 {
+    color: rgba(255, 255, 255);
+    font-family: "Alef";
+    font-size: 24px;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+}
+.Container {
+    width: 800px;
+    height: 400px;
+    position: sticky;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    animation: 2s animacion-arriba ease-out;
+}
+.Wrapper {
+    width: 100%;
+    display: flex;
+    animation: slide 20s infinite;
+}
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(0);
+    }
+    30% {
+        transform: translateX(-100%);
+    }
+    50% {
+        transform: translateX(-100%);
+    }
+    55% {
+        transform: translateX(-200%);
+    }
+    75% {
+        transform: translateX(-200%);
+    }
+    80% {
+        transform: translateX(-300%);
+    }
+    100% {
+        transform: translateX(-300%);
+    }
+}
+img {
+    width: 100%;
+}
+.Contenedor1 {
+    text-align: center;
+}
+.Contenedor2 {
+    text-align: center;
+}
+.Texto2 {
+    color: rgba(255, 255, 255);
+    font-family: "Alef";
+    font-size: 24px;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+}
+.Boton1 {
+    background-image: url(Imagenes/Imagen5.png);
+    color: white;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+}
+.Boton1:hover {
+    background-image: url(Imagenes/Imagen5.png);
+    color: black;
+    font-size: 28px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+    opacity: 0.4;
+}
+.Boton2 {
+    background-image: url(Imagenes/Imagen6.png);
+    color: white;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+}
+.Boton2:hover {
+    background-image: url(Imagenes/Imagen6.png);
+    color: black;
+    font-size: 28px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+    opacity: 0.4;
+}
+.Boton3 {
+    background-image: url(Imagenes/Imagen7.png);
+    color: white;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+}
+.Boton3:hover {
+    background-image: url(Imagenes/Imagen7.png);
+    color: black;
+    font-size: 28px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+    opacity: 0.4;
+}
+.Boton4 {
+    background-image: url(Imagenes/Imagen8.png);
+    color: white;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+}
+.Boton4:hover {
+    background-image: url(Imagenes/Imagen8.png);
+    color: black;
+    font-size: 28px;
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+    font-family: "Alef";
+    border: none;
+    text-align: center;
+    animation: 2s animacion-arriba ease-out;
+    transition: ease 0.4s;
+    opacity: 0.4;
+}
+.Contenedor3 {
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    animation: 2s animacion-arriba ease-out;
+  }
+.fa:hover {
+    transition: ease-in-out 0.4s;
+    background: rgba(255, 255, 255);
+    color: black;
+    animation: 2s animacion-arriba ease-out;
+}
+.fa-facebook {
+    background: rgba(0, 0, 0);
+    color: white;
+  }
+  
+.fa-twitter {
+    background: rgba(0, 0, 0);
+    color: white;
+}
+.fa-dribbble {
+    background: rgba(0, 0, 0);
+    color: white;
+}
+.fa-rss {
+    background: rgba(0, 0, 0);
+    color: white;
+}
+.Contenedor4 {
+    text-align: center;
+}
+.TextoFondo {
+    color: rgba(255, 255, 255);
+    font-family: "Alef";
+    animation: 2s animacion-arriba ease-out;
+}
