@@ -147,7 +147,7 @@ img {
 }
 .Boton1 {
     background-image: url(Imagenes/Imagen5.png);
-    color: white;
+    color: rgba(255, 255, 255);
     font-size: 24px;
     width: 400px;
     height: 200px;
@@ -174,7 +174,7 @@ img {
 }
 .Boton2 {
     background-image: url(Imagenes/Imagen6.png);
-    color: white;
+    color: rgba(255, 255, 255);
     font-size: 24px;
     width: 400px;
     height: 200px;
@@ -187,7 +187,7 @@ img {
 }
 .Boton2:hover {
     background-image: url(Imagenes/Imagen6.png);
-    color: black;
+    color: rgba(0, 0, 0);
     font-size: 28px;
     width: 400px;
     height: 200px;
@@ -201,7 +201,7 @@ img {
 }
 .Boton3 {
     background-image: url(Imagenes/Imagen7.png);
-    color: white;
+    color: rgba(255, 255, 255);
     font-size: 24px;
     width: 400px;
     height: 200px;
@@ -214,7 +214,7 @@ img {
 }
 .Boton3:hover {
     background-image: url(Imagenes/Imagen7.png);
-    color: black;
+    color: rgba(0, 0, 0);
     font-size: 28px;
     width: 400px;
     height: 200px;
@@ -228,7 +228,7 @@ img {
 }
 .Boton4 {
     background-image: url(Imagenes/Imagen8.png);
-    color: white;
+    color: rgba(255, 255, 255);
     font-size: 24px;
     width: 400px;
     height: 200px;
@@ -241,7 +241,7 @@ img {
 }
 .Boton4:hover {
     background-image: url(Imagenes/Imagen8.png);
-    color: black;
+    color: rgba(0, 0, 0);
     font-size: 28px;
     width: 400px;
     height: 200px;
@@ -273,20 +273,20 @@ img {
 }
 .fa-facebook {
     background: rgba(0, 0, 0);
-    color: white;
+    color: rgba(255, 255, 255);
   }
   
 .fa-twitter {
     background: rgba(0, 0, 0);
-    color: white;
+    color: rgba(255, 255, 255);
 }
 .fa-dribbble {
     background: rgba(0, 0, 0);
-    color: white;
+    color: rgba(255, 255, 255);
 }
 .fa-rss {
     background: rgba(0, 0, 0);
-    color: white;
+    color: rgba(255, 255, 255);
 }
 .Contenedor4 {
     text-align: center;
