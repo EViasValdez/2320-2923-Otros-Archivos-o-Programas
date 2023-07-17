@@ -44,12 +44,12 @@ Al igual que con una de las anteriores esta basada en una universidad pero esta 
 <!----Separador---->
 
 ###### clinica_medica - 31/07/20
-Texto por ser colocado.
+Como su nombre lo dice es una base de datos de una clinica medica.
 
 <!----Separador---->
 
 ###### clinica_medica_consulta_update - 01/08/20
-Texto por ser colocado.
+Se utliza la base de datos anterior para poder realizar consultas.
 
 <!----Separador---->
 
@@ -62,7 +62,7 @@ La tabla esta dividida entre codigo, nombre y departamento, con el valor de codi
 <!----Separador---->
 
 ## 2522
-Aqui se encuentran los programas que se hicieron para poder.
+Aqui se encuentran los programas que se hicieron en el cuatrimestre que tambien llegue a realizar programas para una materia en especifico.
 
 ###### Euler
 Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria II.
