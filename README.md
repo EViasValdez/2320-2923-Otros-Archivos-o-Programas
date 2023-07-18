@@ -74,13 +74,13 @@ Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
-Texto por ser colocado.
+Programa inconcluso realizado durante tutorias para la realizacion de la conversion de Monte Carlo.
 
 <!----Separador---->
 
 ## 2722
 ###### Expresiones - 10/22
-Texto por ser colocado.
+Programa de expresiones regulares en C#.
 
 <!----Separador---->
 
@@ -89,7 +89,33 @@ Programa que usa el metodo de obtener texto de un sitio web.
 
 <!----Separador---->
 
-## 2320
+## 2823
+###### AnalizadorLexico - 00/00/00
+Por ser descrito.
 
+<!----Separador---->
+
+###### AutomatasClases - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### EjemploPerceptronMultiCapa - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### IAupt - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### Sitioweb - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### Vision Artificial - 00/00/00
+Por ser descrito.
 
 <!----Separador del directorio con descripcion de los programas---->
