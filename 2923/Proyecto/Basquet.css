@@ -1,0 +1,778 @@
+body {
+    background-color: #000000;
+    opacity: 1;
+    background-image: linear-gradient(#ff0000 1px, transparent 1px), linear-gradient(to right, #ff0000 1px, #000000 1px);
+    background-size: 20px 20px;
+    max-width: 2080px;
+}
+@font-face {
+    font-family: "Cinqcent";
+    src: url("Fuentes/Cinqcent.otf");
+}
+@font-face {
+    font-family: "Estandar";
+    src: url("Fuentes/Estandar.ttf");
+}
+#LogoTexto {
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    padding: 20px 20px;
+    background-color: rgba(0, 200, 0, 1);
+    font-family: "Cinqcent";
+}
+#header {
+    margin: auto;
+    width: 800px;
+    font-family: "Estandar";
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+ul, ol {
+    list-style: none;
+}
+#Menu > li {
+    float: left;
+}
+#Menu li a {
+    margin: auto;
+    background-color: rgba(0, 200, 0, 1);
+    color: rgba(255, 255, 255);
+    text-decoration: none;
+    padding: 20px 20px;
+    display: block;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#Menu li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+#Menu li ul li {
+    position: relative;
+}
+#Menu li ul li ul {
+    right: -140px;
+    top: 0px;
+}
+#Menu li:hover > ul {
+    display: block;
+}
+#Menu li a:hover {
+    background-color: rgba(0, 0, 0, 1);
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoCNMB {
+    margin: 0px auto;
+    display: block;
+    height: 270px;
+    width: 480px;
+}
+#Texto1 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: "Cinqcent";
+}
+#Texto2 {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    font-family: "Cinqcent";
+}
+#LogoAstrosJalisco400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAstrosJalisco400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAztecasUDLAP400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAztecasUDLAP400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoBucanerosCampeche400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoBucanerosCampeche400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoFuerzaRegiaNuevoLeon400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoFuerzaRegiaNuevoLeon400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesXalapa400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesXalapa400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLibertadoresQueretaro400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLibertadoresQueretaro400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLobosIBERO400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLobosIBERO400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPanterasUP400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPanterasUP400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPumasUNAM400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPumasUNAM400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoSolesMexicali400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoSolesMexicali400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTuzosUAZ400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTuzosUAZ400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadInteramericana400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadInteramericana400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAguilasUAPEP400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAguilasUAPEP400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAngelesPuebla400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAngelesPuebla400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoCorrecaminosUAT400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoCorrecaminosUAT400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGallosUAA400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGallosUAA400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGigantesEstadoMexico400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGigantesEstadoMexico400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesVeracruz400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesVeracruz400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLeonesAnahuac400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLeonesAnahuac400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLagunerosComarca400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLagunerosComarca400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoMinerosZacatecas400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoMinerosZacatecas400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPanterasUM400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPanterasUM400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPlaterosFresnillo400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoPlaterosFresnillo400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTroyanosUDEM400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTroyanosUDEM400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAbejasLeon400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAbejasLeon400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAngelesGuerreros400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoAngelesGuerreros400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHuracanesTampico400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHuracanesTampico400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoDoradosChihuahua400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoDoradosChihuahua400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGatosSalvajesUAQ400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoGatosSalvajesUAQ400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesUVAQ400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoHalconesUVAQ400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoJaguaresUAMP400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoJaguaresUAMP400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLincesUVM400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLincesUVM400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLobosUADC400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoLobosUADC400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTorosNuevoLaredo400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoTorosNuevoLaredo400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadLaSalle400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadLaSalle400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadSanCarlos400x400-1 {
+    margin: 0px auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#LogoUniversidadSanCarlos400x400-1:hover {
+    margin: 0px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: 0.4s;
+}
+#Tabla {
+    white-space: nowrap;
+    overflow: hidden;
+    width: 180px;
+    height: 30px;
+    text-overflow: ellipsis; 
+    margin: 0px auto;
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: "Estandar";
+    background-color: rgb(255, 255, 255);
+}
+#TabladePosiciones {
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 0px auto;
+    text-align: center;
+    font-family: "Estandar";
+    background-color: rgb(255, 255, 255);
+}
+tr, th {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#Botones {
+    margin: 0px auto;
+    display: block;
+}
+#fa-facebook {
+  padding: 20px;
+  font-size: 40px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  color: black;
+}
+#fa-twitter {
+  padding: 20px;
+  font-size: 40px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  color: black;
+}
+#fa-dribbble {
+  padding: 20px;
+  font-size: 40px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  color: black;
+}
+#fa-rss {
+  padding: 20px;
+  font-size: 40px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  color: black;
+}
+#LogoADEMEBA {
+    margin: 0px auto;
+    display: block;
+    height: 70px;
+    width: 92px;
+}
+#LogoFIBA {
+    margin: 0px auto;
+    display: block;
+    height: 90px;
+    width: 160px;
+}

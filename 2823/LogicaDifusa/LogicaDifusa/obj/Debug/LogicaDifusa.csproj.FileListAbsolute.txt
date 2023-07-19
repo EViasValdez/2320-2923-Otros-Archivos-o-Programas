@@ -1,0 +1,11 @@
+E:\VS\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.exe.config
+E:\VS\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.exe
+E:\VS\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.pdb
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.AssemblyReference.cache
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.SuggestedBindingRedirects.cache
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.Form1.resources
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.GenerateResource.cache
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.CoreCompileInputs.cache
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.exe
+E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.pdb
