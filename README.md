@@ -85,32 +85,37 @@ Programa que usa el metodo de obtener texto de un sitio web.
 <!----Separador---->
 
 ## 2823
-###### AnalizadorLexico - 00/00/00
+###### AnalizadorLexico - 14/02/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### AutomatasClases - 00/00/00
+###### Graficar - 08/03/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### EjemploPerceptronMultiCapa - 00/00/00
+###### AutomatasClases - 15/02/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### IAupt - 00/00/00
+###### EjemploPerceptronMultiCapa - 19/04/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### Sitioweb - 00/00/00
+###### IAupt - 19/04/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### Vision Artificial - 00/00/00
+###### Sitioweb - 22/05/23
+Por ser descrito.
+
+<!----Separador---->
+
+###### Vision Artificial - 19/04/23
 Por ser descrito.
 
 <!----Separador del directorio con descripcion de los programas---->
