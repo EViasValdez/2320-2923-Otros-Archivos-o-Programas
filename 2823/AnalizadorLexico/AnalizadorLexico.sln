@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.33205.214
+VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizadorLexico", "AnalizadorLexico\AnalizadorLexico.csproj", "{BFE89AB2-9159-4E3D-8E05-516E1EAE4EC7}"
 EndProject
