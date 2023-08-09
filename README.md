@@ -86,12 +86,12 @@ Programa que usa el metodo de obtener texto de un sitio web.
 
 ## 2823
 ###### AnalizadorLexico - 14/02/23
-Por ser descrito.
+Programa donde se realiza un Analizador Lexico en C#.
 
 <!----Separador---->
 
 ###### Graficar - 08/03/23
-Por ser descrito.
+Forms de Windows que muestra que tan lejos o cerca esta un archivo.
 
 <!----Separador---->
 
