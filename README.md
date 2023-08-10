@@ -96,12 +96,12 @@ Forms de Windows que muestra que tan lejos o cerca esta un archivo.
 <!----Separador---->
 
 ###### AutomatasClases - 15/02/23
-Por ser descrito.
+Proyecto que usa un archivo de nombre .ia para que cuando se ingrese pueda generar datos dentro de este.
 
 <!----Separador---->
 
 ###### EjemploPerceptronMultiCapa - 19/04/23
-Por ser descrito.
+Programa que hace uso del perceptron de capas multiples.
 
 <!----Separador---->
 
