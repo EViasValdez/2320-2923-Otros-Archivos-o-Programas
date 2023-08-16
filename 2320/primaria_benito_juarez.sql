@@ -1,23 +1,24 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
--- http://www.phpmyadmin.net
+-- version 5.2.0
+-- https://www.phpmyadmin.net/
 --
--- Servidor: localhost
--- Tiempo de generación: 22-06-2020 a las 14:19:38
--- Versión del servidor: 5.5.24-log
--- Versión de PHP: 5.4.3
+-- Servidor: 127.0.0.1:3306
+-- Tiempo de generación: 16-08-2023 a las 16:09:40
+-- Versión del servidor: 8.0.31
+-- Versión de PHP: 8.0.26
 
-SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `primaria benito_juarez`
+-- Base de datos: `primaria_benito_juarez`
 --
 
 -- --------------------------------------------------------
@@ -26,12 +27,13 @@ SET time_zone = "+00:00";
 -- Estructura de tabla para la tabla `alumno`
 --
 
+DROP TABLE IF EXISTS `alumno`;
 CREATE TABLE IF NOT EXISTS `alumno` (
-  `matricula` int(5) NOT NULL,
+  `matricula` int NOT NULL,
   `nombre` text NOT NULL,
   `apellido_paterno` text NOT NULL,
   `apellido_materno` text NOT NULL,
-  `edad` int(2) NOT NULL,
+  `edad` int NOT NULL,
   PRIMARY KEY (`matricula`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -97,6 +99,7 @@ INSERT INTO `alumno` (`matricula`, `nombre`, `apellido_paterno`, `apellido_mater
 -- Estructura de tabla para la tabla `grados`
 --
 
+DROP TABLE IF EXISTS `grados`;
 CREATE TABLE IF NOT EXISTS `grados` (
   `nombre` text NOT NULL,
   `turno` text NOT NULL
@@ -120,6 +123,7 @@ INSERT INTO `grados` (`nombre`, `turno`) VALUES
 -- Estructura de tabla para la tabla `grupos`
 --
 
+DROP TABLE IF EXISTS `grupos`;
 CREATE TABLE IF NOT EXISTS `grupos` (
   `nombre` text NOT NULL,
   `grado` text NOT NULL,
@@ -132,6 +136,7 @@ CREATE TABLE IF NOT EXISTS `grupos` (
 -- Estructura de tabla para la tabla `laboratorios`
 --
 
+DROP TABLE IF EXISTS `laboratorios`;
 CREATE TABLE IF NOT EXISTS `laboratorios` (
   `aula` text NOT NULL,
   `materia` text NOT NULL
@@ -157,10 +162,11 @@ INSERT INTO `laboratorios` (`aula`, `materia`) VALUES
 -- Estructura de tabla para la tabla `maestros`
 --
 
+DROP TABLE IF EXISTS `maestros`;
 CREATE TABLE IF NOT EXISTS `maestros` (
   `nombre` text NOT NULL,
   `apellidos` text NOT NULL,
-  `telefono` int(11) NOT NULL
+  `telefono` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -200,10 +206,11 @@ INSERT INTO `maestros` (`nombre`, `apellidos`, `telefono`) VALUES
 -- Estructura de tabla para la tabla `materias`
 --
 
+DROP TABLE IF EXISTS `materias`;
 CREATE TABLE IF NOT EXISTS `materias` (
   `nombre` text NOT NULL,
   `clave` text NOT NULL,
-  `horas_asigandas` int(11) NOT NULL
+  `horas_asigandas` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -219,6 +226,7 @@ INSERT INTO `materias` (`nombre`, `clave`, `horas_asigandas`) VALUES
 ('Ingles', '1646', 8),
 ('Geografia', '5437', 4),
 ('Historia', '2126', 4);
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
