@@ -1,0 +1,104 @@
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.exe.config
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.exe
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.pdb
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\MySqlConnector.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Buffers.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Memory.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Permissions.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\ZstdSharp.dll
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.pdb
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\MySqlConnector.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Buffers.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Memory.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Permissions.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.Form1.resources
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.Properties.Resources.resources
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.GenerateResource.cache
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.CopyComplete
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.exe
+C:\Users\defaultuser0\source\repos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.pdb
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.exe.config
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.exe
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\ConsumoServicio.pdb
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\BouncyCastle.Crypto.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Hash.xxHash.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\MySqlConnector.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Buffers.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.IO.Pipelines.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Memory.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Numerics.Vectors.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.AccessControl.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Permissions.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Principal.Windows.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\ZstdSharp.dll
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\BouncyCastle.Crypto.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.pdb
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\Google.Protobuf.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\K4os.Hash.xxHash.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\MySqlConnector.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Buffers.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.IO.Pipelines.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Memory.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Numerics.Vectors.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.AccessControl.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Permissions.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Security.Principal.Windows.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.AssemblyReference.cache
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.SuggestedBindingRedirects.cache
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.Form1.resources
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.Properties.Resources.resources
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.GenerateResource.cache
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.CoreCompileInputs.cache
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.csproj.CopyComplete
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.exe
+E:\VS\Arquitectura orientada a objetos\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.pdb
