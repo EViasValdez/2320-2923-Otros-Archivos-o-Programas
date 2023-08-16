@@ -18,11 +18,6 @@ Base de datos que era para simular una primaria.
 
 <!----Separador---->
 
-###### universidad - 22/06/20
-Esta base de datos la hice para registrar datos de una universidad.
-
-<!----Separador---->
-
 ###### libreria - 24/07/20
 Para esta se eligieron varios libros
 
