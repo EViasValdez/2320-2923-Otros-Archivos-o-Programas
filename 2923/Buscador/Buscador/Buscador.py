@@ -1,13 +1,11 @@
 from unittest import result
 import mysql.connector
-from CLASES.table_info  import TableInfo
+from CLASES.table_info import TableInfo
 
 # Uso de la clase TableInfo
 table_info = TableInfo('localhost', 'root', '', 'odapas')
 num_fields = table_info.get_num_fields('sys_roles')
 print(f"La tabla sys_roles tiene {num_fields} campos.")
-
-
 
 # Obtener los resultados de la consulta
 results = table_info.results()
