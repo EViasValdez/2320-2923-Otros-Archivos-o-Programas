@@ -1,4 +1,4 @@
-# Otros archivos o programas de cuatrimestres anteriores
+# Otros archivos o programas de cuatrimestres anteriores para materias donde no hay mucha programacion
 
 <!----Notas---->
 **Notas**
