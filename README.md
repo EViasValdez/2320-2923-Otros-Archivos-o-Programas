@@ -113,4 +113,25 @@ Por ser descrito.
 ###### Vision Artificial - 19/04/23
 Por ser descrito.
 
+<!----Separador---->
+
+## 2923
+###### Buscador - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### BuscadorENCRIPTADO - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### ConsumoServicio - 00/00/00
+Por ser descrito.
+
+<!----Separador---->
+
+###### Proyecto - 00/00/00
+Por ser descrito.
+
 <!----Separador del directorio con descripcion de los programas---->
