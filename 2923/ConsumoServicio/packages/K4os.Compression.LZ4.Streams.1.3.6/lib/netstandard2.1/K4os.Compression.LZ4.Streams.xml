@@ -716,6 +716,9 @@
         <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameReader`2.Dispose">
             <inheritdoc />
         </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameReader`2.DisposeAsync">
+            <inheritdoc />
+        </member>
         <member name="T:K4os.Compression.LZ4.Streams.Frames.ByteSpanLZ4FrameReader">
             <summary>
             <see cref="T:K4os.Compression.LZ4.Streams.Abstractions.ILZ4FrameReader"/> implementation for <see cref="T:K4os.Compression.LZ4.Streams.Adapters.UnsafeByteSpan"/>.
@@ -770,6 +773,11 @@
             Disposes the reader.
             </summary>
             <param name="disposing"><c>true</c> if user is disposing it; <c>false</c> if it has been triggered by garbage collector</param>
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.StreamLZ4FrameReader.DisposeAsync">
+            <summary>
+            Disposes the reader.
+            </summary>
         </member>
         <member name="T:K4os.Compression.LZ4.Streams.Frames.PipeLZ4FrameReader">
             <summary>
@@ -828,6 +836,12 @@
             Position within the stream. Position can be read, but cannot be set as LZ4 stream does
             not have <c>Seek</c> capability.
             </summary>
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameReaderAsStream.Read(System.Span{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameReaderAsStream.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)">
+            <inheritdoc />
         </member>
         <member name="T:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriter`2">
             <summary>
@@ -904,6 +918,9 @@
             Releases all unmanaged resources.
             </summary>
             <returns>Task indicating completion of the operation.</returns>
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriter`2.DisposeAsync">
+            <inheritdoc />
         </member>
         <member name="T:K4os.Compression.LZ4.Streams.Frames.ByteBufferLZ4FrameWriter`1">
             <summary>
@@ -1033,6 +1050,12 @@
         <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriterAsStream.WriteAsync(System.Byte[],System.Int32,System.Int32,System.Threading.CancellationToken)">
             <inheritdoc />
         </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriterAsStream.Write(System.ReadOnlySpan{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriterAsStream.WriteAsync(System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
         <member name="P:K4os.Compression.LZ4.Streams.Frames.LZ4FrameWriterAsStream.Length">
             <summary>Length of the stream and number of bytes written so far.</summary>
         </member>
@@ -1144,6 +1167,21 @@
         <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.WriteAsync(System.Byte[],System.Int32,System.Int32,System.Threading.CancellationToken)">
             <inheritdoc />
         </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.Read(System.Span{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.Write(System.ReadOnlySpan{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.WriteAsync(System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.Internal.LZ4StreamEssentials`1.DisposeAsync">
+            <inheritdoc />
+        </member>
         <member name="T:K4os.Compression.LZ4.Streams.Internal.LZ4StreamOnStreamEssentials">
             <summary>
             LZ4 stream essentials when wrapping another stream.
@@ -1220,6 +1258,15 @@
             </summary>
         </member>
         <member name="M:K4os.Compression.LZ4.Streams.LZ4DecoderStream.Dispose(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4DecoderStream.Read(System.Span{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4DecoderStream.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4DecoderStream.DisposeAsync">
             <inheritdoc />
         </member>
         <member name="T:K4os.Compression.LZ4.Streams.LZ4Descriptor">
@@ -1323,6 +1370,15 @@
             <inheritdoc />
         </member>
         <member name="M:K4os.Compression.LZ4.Streams.LZ4EncoderStream.WriteAsync(System.Byte[],System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4EncoderStream.DisposeAsync">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4EncoderStream.Write(System.ReadOnlySpan{System.Byte})">
+            <inheritdoc />
+        </member>
+        <member name="M:K4os.Compression.LZ4.Streams.LZ4EncoderStream.WriteAsync(System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)">
             <inheritdoc />
         </member>
         <member name="P:K4os.Compression.LZ4.Streams.LZ4EncoderStream.CanRead">
