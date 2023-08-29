@@ -12,7 +12,7 @@ int main()
     do {
         system ("cls");
         cout.fixed;
-        cout.precision (5);
+        cout.precision(5);
 
         double Inc, Ini, Res, Lim, R, R1;
 

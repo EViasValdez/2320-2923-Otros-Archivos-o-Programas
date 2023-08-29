@@ -1,10 +1,11 @@
-#include<iostream>
-#include<cstdlib>
-#include<tgmath.h>
-#include<iomanip>
+#include <iostream>
+#include <cstdlib>
+#include <tgmath.h>
+#include <iomanip>
+
 using namespace std;
 
-void euler (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1) {
+void euler(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1) {
 	cout << "Bienvenido al programa de euler: "<<endl;
 	
 	cout<<"INCREMENTO: "; cin>>Inc; cout<<endl;
@@ -23,7 +24,7 @@ void euler (int y, double x, double h, double k1, double k2, double k3, double k
 	cout<< "\n\n";
 }
 	
-void newton (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
+void newton(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
 	cout << "Bienvenido a newton: "<<endl;
 	x = 1;
 	y = 8;
@@ -48,7 +49,7 @@ void newton (int y, double x, double h, double k1, double k2, double k3, double 
 	}
 }
 
-void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
+void rk4(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
 	cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
 	cout<< " y' = 2xy, y (1) = 1; y (1.5)  \n";
 	cout<< "INGRESE EL INCREMENTO\n";
@@ -78,7 +79,7 @@ void rk4 (int y, double x, double h, double k1, double k2, double k3, double k4,
 	cout<< "\n\n";
 }
 
-int main (int argc, char * argv[]) {
+int main(int argc, char * argv[]) {
 	double y, x, h, k1, k2, k3, k4, c;
 	double Inc, Ini, Res, Lim, R, R1;
 
