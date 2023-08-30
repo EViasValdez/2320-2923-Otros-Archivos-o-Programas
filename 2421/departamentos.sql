@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1:3306
--- Tiempo de generación: 19-07-2022 a las 16:21:49
--- Versión del servidor: 5.7.36
--- Versión de PHP: 7.4.26
+-- Tiempo de generación: 30-08-2023 a las 03:41:48
+-- Versión del servidor: 8.0.31
+-- Versión de PHP: 8.0.26
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `empleados`
+-- Base de datos: `departamentos`
 --
 
 -- --------------------------------------------------------
@@ -29,9 +29,9 @@ SET time_zone = "+00:00";
 
 DROP TABLE IF EXISTS `departamentos`;
 CREATE TABLE IF NOT EXISTS `departamentos` (
-  `codigo` int(11) NOT NULL,
+  `codigo` int NOT NULL,
   `nombre` varchar(30) DEFAULT NULL,
-  `presupuesto` int(11) DEFAULT NULL,
+  `presupuesto` int DEFAULT NULL,
   PRIMARY KEY (`codigo`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
