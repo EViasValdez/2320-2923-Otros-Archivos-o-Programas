@@ -21,9 +21,6 @@ def genera_clave():
 def cargar_calve():
     return open("clave.key", "rb").read()
 
-
-
-
 # Obtener los resultados de la consulta
 results = table_info.results()
 
@@ -32,10 +29,8 @@ result_set = set()
 
 # Iterar sobre los resultados y agregarlos al conjunto
 
-
 for row in results:
     result_set.add(row)
-   
  
 # Convertir el conjunto a una lista
 result_list = list(result_set)
@@ -53,8 +48,6 @@ num_results = len(results)
 print(f"Hay {num_results} resultados en el campo sys_roles.")
 print("\n")
 
-
-
 #proseso de encriptacion 
 #crar y guardar clave 
 genera_clave()
@@ -63,24 +56,19 @@ genera_clave()
 clave = cargar_calve()
 
 #encriptar mensaje
- 
 msg = ''.join(result_list).encode()
-
 
 #inicioamos 
 f = Fernet(clave)
 
 #encriptamos mensaje 
-
 encriptado = f.encrypt(msg)
 
 #mesaje encriptado
 print("\n mensaje encriptado")
 print(encriptado)
 
-
 #desencriptado
-
 desincriptado = f.decrypt(encriptado)
 
 #mensaje original 
