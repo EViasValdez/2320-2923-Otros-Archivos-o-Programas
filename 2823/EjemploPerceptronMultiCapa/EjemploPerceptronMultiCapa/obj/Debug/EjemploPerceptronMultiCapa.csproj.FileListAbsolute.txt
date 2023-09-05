@@ -40,3 +40,16 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CopyComplete
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.xml
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CopyComplete
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb

@@ -42,3 +42,13 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\bin\Debug\AutomatasClases.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\bin\Debug\AutomatasClases.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\bin\Debug\AutomatasClases.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AutomatasClases\AutomatasClases\obj\Debug\AutomatasClases.pdb
