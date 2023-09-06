@@ -20,7 +20,8 @@ namespace AutomatasClases
         String[] respuestas;
         Agente agente = new Agente();
         Estado Actual;
-        List<string> ataque = new List<string>() { "Llamarada", "Ascuas", "Hidrobomba", "Burbujas", "Rayo Solar", "Drenadoras", "Otra vez" };
+
+        List<string> ataque = new List<string>() {"Llamarada", "Ascuas", "Hidrobomba", "Burbujas", "Rayo Solar", "Drenadoras", "Otra vez"};
 
         public Form1()
         {
@@ -35,14 +36,11 @@ namespace AutomatasClases
                 Filter = "Archivo de estado de estados (*.ia)|*.ia|All files (*.*)|*.*"
             };
 
-
-
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 try
                 {
                     StreamReader leer = new StreamReader(openFileDialog1.FileName);
-
                     preguntas = leer.ReadLine().Split(',');
                     numeroEstados = preguntas.Length;
                     respuestas = leer.ReadLine().Split(',');
@@ -69,7 +67,7 @@ namespace AutomatasClases
                             }
                         }
                     }
-                    //limpiar();
+                    // limpiar();
                     proceso(agente.estados[0]);
                 }
                 catch (Exception ex)
@@ -149,43 +147,43 @@ namespace AutomatasClases
             //mensaje();
         }
 
-        //private void mensaje()
-        //{
-        //    PictureBox pictureBox = new PictureBox();
-        //    pictureBox.Location = new Point(40, 269);
-        //    pictureBox.Size = new Size(150, 120);
-        //    pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
-        //    pictureBox.BackColor = Color.Transparent;
+        // private void mensaje()
+        // {
+        //     PictureBox pictureBox = new PictureBox();
+        //     pictureBox.Location = new Point(40, 269);
+        //     pictureBox.Size = new Size(150, 120);
+        //     pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
+        //     pictureBox.BackColor = Color.Transparent;
 
-        //    if (lblTitle.Text == "Ganaste")
-        //    {
-        //        pictureBox.Image = Image.FromFile(@"..\..\img\Ganaste.png");
-        //    }
-        //    else if (lblTitle.Text == "Perdiste")
-        //    {
-        //        pictureBox.Image = Image.FromFile(@"..\..\img\Perdiste.png");
-        //    }
-        //    else if (lblTitle.Text == "Empataste")
-        //    {
-        //        pictureBox.Image = Image.FromFile(@"..\..\img\Empataste.png");
-        //    }
-        //}
+        //     if (lblTitle.Text == "Ganaste")
+        //     {
+        //         pictureBox.Image = Image.FromFile(@"..\..\img\Ganaste.png");
+        //     }
+        //     else if (lblTitle.Text == "Perdiste")
+        //     {
+        //         pictureBox.Image = Image.FromFile(@"..\..\img\Perdiste.png");
+        //     }
+        //     else if (lblTitle.Text == "Empataste")
+        //     {
+        //         pictureBox.Image = Image.FromFile(@"..\..\img\Empataste.png");
+        //     }
+        // }
 
-        //private void limpiar()
-        //{
-        //    List<Control> eliminar = new List<Control>();
-        //    foreach (Control control in this.Controls)
-        //    {
-        //        if (control is pictureBox)
-        //        {
-        //            eliminar.Add(control);
-        //        }
-        //    }
-        //    foreach (Control control in eliminar)
-        //    {
-        //        this.Controls.Remove(control);
-        //        control.Dispose();
-        //    }
-        //}
+        // private void limpiar()
+        // {
+        //     List<Control> eliminar = new List<Control>();
+        //     foreach (Control control in this.Controls)
+        //     {
+        //         if (control is pictureBox)
+        //         {
+        //             eliminar.Add(control);
+        //         }
+        //     }
+        //     foreach (Control control in eliminar)
+        //     {
+        //         this.Controls.Remove(control);
+        //         control.Dispose();
+        //     }
+        // }
     }
 }

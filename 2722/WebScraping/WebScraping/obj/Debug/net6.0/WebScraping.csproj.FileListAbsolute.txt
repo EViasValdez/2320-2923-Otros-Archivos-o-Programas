@@ -8,3 +8,8 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2622-Otros-Archivos-o-Programas\2722\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2622-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2622-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfo.cs
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2622-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2722\WebScraping\WebScraping\obj\Debug\net6.0\WebScraping.csproj.CoreCompileInputs.cache
