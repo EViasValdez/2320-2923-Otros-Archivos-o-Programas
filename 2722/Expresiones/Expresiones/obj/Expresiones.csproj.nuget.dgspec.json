@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj",
         "projectName": "Expresiones",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\Expresiones.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2622-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2722\\Expresiones\\Expresiones\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
