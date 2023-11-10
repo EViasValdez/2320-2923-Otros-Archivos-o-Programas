@@ -110,7 +110,7 @@ Por ser descrito.
 
 <!----Separador---->
 
-###### Vision Artificial - 19/04/23
+###### Ejemplo reconocimiento de objetos.v11 - 19/04/23
 Por ser descrito.
 
 <!----Separador---->
