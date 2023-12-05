@@ -110,7 +110,7 @@ Por ser descrito.
 
 <!----Separador---->
 
-###### Ejemplo reconocimiento de objetos.v11 - 19/04/23
+###### Ejemplo reconocimiento de objetos - 19/04/23
 Por ser descrito.
 
 <!----Separador---->
