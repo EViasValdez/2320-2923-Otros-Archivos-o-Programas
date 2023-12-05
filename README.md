@@ -1,17 +1,17 @@
-# Otros archivos o programas de cuatrimestres anteriores para materias donde no hay mucha programacion
+# Otros archivos o programas de cuatrimestres anteriores para materias donde no hay mucha programación
 
 <!----Notas---->
 **Notas**
 
-**- El formato de presentacion para este repositorio sera completamente difrente.**
+**- El formato de presentación para este repositorio será completamente difrente.**
 
-**- Hacen falta algunos elementos que no he puesto aqui por el momento.**
+**- Hacen falta algunos elementos que no he puesto aquí por el momento.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 ## 2320
-En esta carpeta la mayoria de los archivos son SQL en formato MariaDB (casi todos los que hize durante la materia de base de datos), otros archivos se encuentran en repositorios mas subidos.
+En esta carpeta la mayoría de los archivos son SQL en formato MariaDB (casi todos los que hice durante la materia de base de datos), otros archivos se encuentran en repositorios más subidos.
 
 ###### primaria_benito_juarez - 22/06/20
 Base de datos que era para simular una primaria.
@@ -29,17 +29,17 @@ Base de datos que usa como base una tienda de instrumentos
 <!----Separador---->
 
 ###### universidad_upt - 25/07/20
-Al igual que con una de las anteriores esta basada en una universidad pero esta es de la universidad a la que asisto.
+Al igual que con una de las anteriores está basada en una universidad, pero esta es de la universidad a la que asisto.
 
 <!----Separador---->
 
 ###### clinica_medica - 31/07/20
-Como su nombre lo dice es una base de datos de una clinica medica.
+Como su nombre lo dice es una base de datos de una clínica médica.
 
 <!----Separador---->
 
 ###### clinica_medica_consulta_update - 01/08/20
-Se utliza la base de datos anterior para poder realizar consultas.
+Se utiliza la base de datos anterior para poder realizar consultas.
 
 <!----Separador---->
 
@@ -47,15 +47,15 @@ Se utliza la base de datos anterior para poder realizar consultas.
 Esta carpeta solo tiene un archivo que se hizo en SQL.
 
 ###### departamentos - 19/07/2022
-La tabla esta dividida entre codigo, nombre y departamento, con el valor de codigo como llave primaria.
+La tabla está dividida entre código, nombre y departamento, con el valor de código como llave primaria.
 
 <!----Separador---->
 
 ## 2522
-Aqui se encuentran los programas que se hicieron en el cuatrimestre que tambien llegue a realizar programas para una materia en especifico.
+Aquí se encuentran los programas que se hicieron en el cuatrimestre que también llegue a realizar programas para una materia en específico.
 
 ###### Euler
-Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los metodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matematicas para ingenieria II.
+Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los métodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matemáticas para ingeniería II.
 
 <!----Separador---->
 
@@ -64,7 +64,7 @@ Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
 ###### Conversiones - 07/22
-Programa inconcluso realizado durante tutorias para la realizacion de la conversion de Monte Carlo.
+Programa inconcluso realizado durante tutorías para la realización de la conversión de Monte Carlo.
 
 <!----Separador---->
 
@@ -75,13 +75,13 @@ Programa de expresiones regulares en C#.
 <!----Separador---->
 
 ###### WebScraping - 11/22
-Programa que usa el metodo de obtener texto de un sitio web.
+Programa que usa el método de obtener texto de un sitio web.
 
 <!----Separador---->
 
 ## 2823
 ###### AnalizadorLexico - 14/02/23
-Programa donde se realiza un Analizador Lexico en C#.
+Programa donde se realiza un Analizador léxico en C#.
 
 <!----Separador---->
 
@@ -96,7 +96,7 @@ Proyecto que usa un archivo de nombre .ia para que cuando se ingrese pueda gener
 <!----Separador---->
 
 ###### EjemploPerceptronMultiCapa - 19/04/23
-Programa que hace uso del perceptron de capas multiples.
+Programa que hace uso del perceptrón de capas múltiples.
 
 <!----Separador---->
 
