@@ -20,13 +20,3 @@ F:\VS\Graficar\Graficar\obj\Debug\Graficar.csproj.GenerateResource.cache
 F:\VS\Graficar\Graficar\obj\Debug\Graficar.csproj.CoreCompileInputs.cache
 F:\VS\Graficar\Graficar\obj\Debug\Graficar.exe
 F:\VS\Graficar\Graficar\obj\Debug\Graficar.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\bin\Debug\Graficar.exe.config
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\bin\Debug\Graficar.exe
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\bin\Debug\Graficar.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.csproj.AssemblyReference.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.Form1.resources
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.Properties.Resources.resources
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.csproj.GenerateResource.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.csproj.CoreCompileInputs.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.exe
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.pdb
