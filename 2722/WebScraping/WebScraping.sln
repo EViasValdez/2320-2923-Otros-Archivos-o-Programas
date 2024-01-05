@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.7.34009.444
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraping", "WebScraping\WebScraping.csproj", "{6B28FEFE-E506-47F8-AA1A-562233DF4105}"
 EndProject
