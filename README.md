@@ -116,22 +116,22 @@ Por ser descrito.
 <!----Separador---->
 
 ## 2923
-###### Buscador - 00/00/00
+###### Buscador - 00/00/23
 Programa desarrollado en Python.
 
 <!----Separador---->
 
-###### BuscadorENCRIPTADO - 00/00/00
+###### BuscadorENCRIPTADO - 00/00/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### ConsumoServicio - 00/00/00
+###### ConsumoServicio - 00/00/23
 Por ser descrito.
 
 <!----Separador---->
 
-###### Proyecto - 00/00/00
+###### Proyecto - 00/00/23
 Por ser descrito.
 
 <!----Separador del directorio con descripcion de los programas---->
