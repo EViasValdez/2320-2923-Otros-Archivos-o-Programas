@@ -19,12 +19,12 @@ Base de datos que era para simular una primaria.
 <!----Separador---->
 
 ###### libreria - 24/07/20
-Para esta se eligieron varios libros
+Para esta se eligieron varios libros y fueron puestos en dicho archivo de base de datos.
 
 <!----Separador---->
 
 ###### tienda_instrumentos - 07/20
-Base de datos que usa como base una tienda de instrumentos
+Base de datos que usa como base una tienda de instrumentos.
 
 <!----Separador---->
 
@@ -117,7 +117,7 @@ Por ser descrito.
 
 ## 2923
 ###### Buscador - 00/00/00
-Por ser descrito.
+Programa desarrollado en Python.
 
 <!----Separador---->
 
