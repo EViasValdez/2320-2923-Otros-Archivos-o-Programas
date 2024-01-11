@@ -22,14 +22,13 @@ def cargar_calve():
     return open("clave.key", "rb").read()
 
 # Obtener los resultados de la consulta
-results = table_info.results()
+Resultados = table_info.Resultados()
 
-# Crear un conjunto vacío para almacenar los resultados
+# Crear un conjunto vacï¿½o para almacenar los resultados
 result_set = set()
 
 # Iterar sobre los resultados y agregarlos al conjunto
-
-for row in results:
+for row in Resultados:
     result_set.add(row)
  
 # Convertir el conjunto a una lista
@@ -39,38 +38,38 @@ result_list = list(result_set)
 print(result_list)
 
 # Obtener los resultados de la consulta
-results = table_info.results()
+Resultados = table_info.Resultados()
 
 # Obtener la cantidad de resultados
-num_results = len(results)
+num_results = len(Resultados)
 
 # Imprimir la cantidad de resultados
 print(f"Hay {num_results} resultados en el campo sys_roles.")
 print("\n")
 
-#proseso de encriptacion 
-#crar y guardar clave 
+# Proseso de encriptacion 
+# Crear y guardar clave 
 genera_clave()
 
-#cargar clave 
+# Cargar clave 
 clave = cargar_calve()
 
-#encriptar mensaje
+# Encriptar mensaje
 msg = ''.join(result_list).encode()
 
-#inicioamos 
+# Inicioamos 
 f = Fernet(clave)
 
-#encriptamos mensaje 
+# Encriptamos mensaje 
 encriptado = f.encrypt(msg)
 
-#mesaje encriptado
+# Mensaje encriptado
 print("\n mensaje encriptado")
 print(encriptado)
 
-#desencriptado
-desincriptado = f.decrypt(encriptado)
+# Desencriptado
+Desencriptado = f.decrypt(encriptado)
 
-#mensaje original 
+# Mensaje original 
 print("\n mensaje desencriptado")
-print(desincriptado)
+print(Desencriptado)
