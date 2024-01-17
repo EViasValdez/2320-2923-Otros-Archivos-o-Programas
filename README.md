@@ -23,7 +23,7 @@ Para esta se eligieron varios libros y fueron puestos en dicho archivo de base d
 
 <!----Separador---->
 
-###### tienda_instrumentos - 07/20
+###### tienda_instrumentos - 00/07/20
 Base de datos que usa como base una tienda de instrumentos.
 
 <!----Separador---->
@@ -63,18 +63,18 @@ Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuac
 Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
-###### Conversiones - 07/22
+###### Conversiones - 00/07/22
 Programa inconcluso realizado durante tutorías para la realización de la conversión de Monte Carlo.
 
 <!----Separador---->
 
 ## 2722
-###### Expresiones - 10/22
+###### Expresiones - 00/10/22
 Programa de expresiones regulares en C#.
 
 <!----Separador---->
 
-###### WebScraping - 11/22
+###### WebScraping - 00/11/22
 Programa que usa el método de obtener texto de un sitio web.
 
 <!----Separador---->
