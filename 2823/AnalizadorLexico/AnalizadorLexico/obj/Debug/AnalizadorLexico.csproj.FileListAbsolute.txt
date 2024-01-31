@@ -20,3 +20,13 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.AnalizadorLexico.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
