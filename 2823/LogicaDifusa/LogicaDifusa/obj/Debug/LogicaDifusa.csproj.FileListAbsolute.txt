@@ -9,3 +9,13 @@ E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.GenerateResource.c
 E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.CoreCompileInputs.cache
 E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.exe
 E:\VS\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\bin\Debug\WindowsFormsApp1.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.pdb
