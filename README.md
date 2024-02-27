@@ -54,12 +54,12 @@ La tabla está dividida entre código, nombre y departamento, con el valor de c�
 ## 2522
 Aquí se encuentran los programas que se hicieron en el cuatrimestre que también llegue a realizar programas para una materia en específico.
 
-###### Euler
+###### Euler - 00/00/22
 Este programa hecho en equipo y escrito en C++ es un programa que resuelve ecuaciones diferenciales por medio de los métodos de Euler mejorado, Runge-Kuta y Newton, fue hecho como parte de la materia de matemáticas para ingeniería II.
 
 <!----Separador---->
 
-###### Mate
+###### Mate - 00/00/22
 Al igual que el programa anterior es igual, aunque con algunos arreglos.
 
 ## 2622
