@@ -11,7 +11,7 @@
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ## 2320
-En esta carpeta la mayoría de los archivos son SQL en formato MariaDB (casi todos los que hice durante la materia de base de datos), otros archivos se encuentran en repositorios más subidos.
+En esta carpeta la mayoría de los archivos son SQL en formato MariaDB (casi todos los que hice durante la materia de base de datos), otros archivos se encuentran en otros repositorios relacionados.
 
 ###### primaria_benito_juarez - 22/06/20
 Base de datos que era para simular una primaria.
