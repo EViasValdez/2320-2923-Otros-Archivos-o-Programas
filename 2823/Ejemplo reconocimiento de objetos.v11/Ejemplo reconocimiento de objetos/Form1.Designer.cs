@@ -54,30 +54,33 @@
             // 
             // pbRGB
             // 
-            this.pbRGB.Location = new System.Drawing.Point(12, 27);
+            this.pbRGB.Location = new System.Drawing.Point(16, 33);
+            this.pbRGB.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbRGB.Name = "pbRGB";
-            this.pbRGB.Size = new System.Drawing.Size(640, 480);
+            this.pbRGB.Size = new System.Drawing.Size(596, 591);
             this.pbRGB.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbRGB.TabIndex = 0;
             this.pbRGB.TabStop = false;
             // 
             // pbGris
             // 
-            this.pbGris.Location = new System.Drawing.Point(714, 27);
+            this.pbGris.Location = new System.Drawing.Point(620, 33);
+            this.pbGris.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbGris.Name = "pbGris";
-            this.pbGris.Size = new System.Drawing.Size(640, 480);
+            this.pbGris.Size = new System.Drawing.Size(731, 591);
             this.pbGris.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbGris.TabIndex = 1;
             this.pbGris.TabStop = false;
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.archivoToolStripMenuItem,
             this.herramientasToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1362, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1364, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -87,20 +90,20 @@
             this.abrirImagenToolStripMenuItem,
             this.abrirArchivoPesosPerceptronToolStripMenuItem});
             this.archivoToolStripMenuItem.Name = "archivoToolStripMenuItem";
-            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
+            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
             this.archivoToolStripMenuItem.Text = "&Archivo";
             // 
             // abrirImagenToolStripMenuItem
             // 
             this.abrirImagenToolStripMenuItem.Name = "abrirImagenToolStripMenuItem";
-            this.abrirImagenToolStripMenuItem.Size = new System.Drawing.Size(292, 22);
+            this.abrirImagenToolStripMenuItem.Size = new System.Drawing.Size(366, 26);
             this.abrirImagenToolStripMenuItem.Text = "&Abrir imagen";
             this.abrirImagenToolStripMenuItem.Click += new System.EventHandler(this.abrirImagenToolStripMenuItem_Click);
             // 
             // abrirArchivoPesosPerceptronToolStripMenuItem
             // 
             this.abrirArchivoPesosPerceptronToolStripMenuItem.Name = "abrirArchivoPesosPerceptronToolStripMenuItem";
-            this.abrirArchivoPesosPerceptronToolStripMenuItem.Size = new System.Drawing.Size(292, 22);
+            this.abrirArchivoPesosPerceptronToolStripMenuItem.Size = new System.Drawing.Size(366, 26);
             this.abrirArchivoPesosPerceptronToolStripMenuItem.Text = "Abrir archivo pesos perceptron multicapa";
             this.abrirArchivoPesosPerceptronToolStripMenuItem.Click += new System.EventHandler(this.abrirArchivoPesosPerceptronToolStripMenuItem_Click);
             // 
@@ -109,13 +112,13 @@
             this.herramientasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.extraerMomentosHuToolStripMenuItem});
             this.herramientasToolStripMenuItem.Name = "herramientasToolStripMenuItem";
-            this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(90, 20);
+            this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
             this.herramientasToolStripMenuItem.Text = "Herramientas";
             // 
             // extraerMomentosHuToolStripMenuItem
             // 
             this.extraerMomentosHuToolStripMenuItem.Name = "extraerMomentosHuToolStripMenuItem";
-            this.extraerMomentosHuToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.extraerMomentosHuToolStripMenuItem.Size = new System.Drawing.Size(236, 26);
             this.extraerMomentosHuToolStripMenuItem.Text = "Extraer Momentos Hu";
             this.extraerMomentosHuToolStripMenuItem.Click += new System.EventHandler(this.ExtraerMomentosHuToolStripMenuItem_Click);
             // 
@@ -125,9 +128,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(12, 528);
+            this.button3.Location = new System.Drawing.Point(16, 650);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(100, 28);
             this.button3.TabIndex = 12;
             this.button3.Text = "Gris";
             this.button3.UseVisualStyleBackColor = true;
@@ -135,27 +139,29 @@
             // 
             // hsbUmbral
             // 
-            this.hsbUmbral.Location = new System.Drawing.Point(714, 510);
+            this.hsbUmbral.Location = new System.Drawing.Point(620, 628);
             this.hsbUmbral.Maximum = 255;
             this.hsbUmbral.Name = "hsbUmbral";
-            this.hsbUmbral.Size = new System.Drawing.Size(640, 19);
+            this.hsbUmbral.Size = new System.Drawing.Size(731, 19);
             this.hsbUmbral.TabIndex = 32;
             this.hsbUmbral.Value = 93;
             this.hsbUmbral.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hsbUmbral_Scroll);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(233, 530);
+            this.textBox2.Location = new System.Drawing.Point(311, 652);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(67, 20);
+            this.textBox2.Size = new System.Drawing.Size(88, 22);
             this.textBox2.TabIndex = 38;
             // 
             // chkFondo
             // 
             this.chkFondo.AutoSize = true;
-            this.chkFondo.Location = new System.Drawing.Point(561, 532);
+            this.chkFondo.Location = new System.Drawing.Point(748, 655);
+            this.chkFondo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chkFondo.Name = "chkFondo";
-            this.chkFondo.Size = new System.Drawing.Size(91, 17);
+            this.chkFondo.Size = new System.Drawing.Size(112, 20);
             this.chkFondo.TabIndex = 40;
             this.chkFondo.Text = "Fondo blanco";
             this.chkFondo.UseVisualStyleBackColor = true;
@@ -163,35 +169,38 @@
             // 
             // txtArea
             // 
-            this.txtArea.Location = new System.Drawing.Point(431, 531);
+            this.txtArea.Location = new System.Drawing.Point(575, 654);
+            this.txtArea.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtArea.Name = "txtArea";
-            this.txtArea.Size = new System.Drawing.Size(100, 20);
+            this.txtArea.Size = new System.Drawing.Size(132, 22);
             this.txtArea.TabIndex = 41;
             this.txtArea.Text = "100";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(306, 533);
+            this.label1.Location = new System.Drawing.Point(408, 656);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 13);
+            this.label1.Size = new System.Drawing.Size(149, 16);
             this.label1.TabIndex = 42;
             this.label1.Text = "Área mínima en pixeles:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(93, 534);
+            this.label2.Location = new System.Drawing.Point(124, 657);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(134, 13);
+            this.label2.Size = new System.Drawing.Size(167, 16);
             this.label2.TabIndex = 43;
             this.label2.Text = "Núm. objetos encontrados:";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1362, 736);
+            this.ClientSize = new System.Drawing.Size(1364, 693);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtArea);
@@ -203,6 +212,7 @@
             this.Controls.Add(this.pbRGB);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";

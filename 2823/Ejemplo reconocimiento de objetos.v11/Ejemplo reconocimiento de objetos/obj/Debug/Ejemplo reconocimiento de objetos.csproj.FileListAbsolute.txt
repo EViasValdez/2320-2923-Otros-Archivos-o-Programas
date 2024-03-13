@@ -169,6 +169,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CoreCompileInputs.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CopyComplete
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Ejemplo reconocimiento de objetos.v11\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo .395B42F6.Up2Date
