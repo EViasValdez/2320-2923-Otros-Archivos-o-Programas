@@ -88,7 +88,7 @@ int main(int argc, char * argv[]) {
 
 	while (ex == 0) {
 		cout<<"Bienvenido"<<endl;
-		cout<<"Men�"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.M�todo nuevo"<<endl<<"4.salir"<<endl<<"R = ";
+		cout<<"Menu"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.Metodo nuevo"<<endl<<"4.Salir"<<endl<<"R = ";
 			
 		cin>>entrada;
 			
@@ -111,7 +111,7 @@ int main(int argc, char * argv[]) {
 			break;
 			case 4:
 				system("cls");
-				cout<<"hasta pronto";
+				cout<<"Hasta pronto";
 				ex++;
 			break;
 		}
