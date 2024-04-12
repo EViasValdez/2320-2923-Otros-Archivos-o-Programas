@@ -83,7 +83,7 @@ namespace IAupt
             /// <summary>
             /// Inicializa la red neuronal para aprendizaje o para reconocimiento
             /// </summary>
-            /// <param name="rutaArchivo">Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
+            /// <param name="rutaArchivo"> Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
             public PerceptronMultiCapa(String rutaArchivo)
             {
                 this.rutaArchivo = rutaArchivo;
@@ -106,7 +106,7 @@ namespace IAupt
             /// <summary>
             /// Lee un archivo *.pml para entrenar la red neuronal.
             /// </summary>
-            /// <param name="rutaArchivo">Especifica la ruta y nombre del archivo para entrenar.</param>
+            /// <param name="rutaArchivo"> Especifica la ruta y nombre del archivo para entrenar.</param>
             public void leerArchivoPMC(String rutaArchivo)
             {
                 FileStream archivo;
@@ -164,7 +164,7 @@ namespace IAupt
             /// <summary>
             /// Lee un archivo *.pml para reconocer un nuevo patron.
             /// </summary>
-            /// <param name="rutaArchivo">Especifica la ruta del archivo para cargar pesos y umbrales.</param>
+            /// <param name="rutaArchivo"> Especifica la ruta del archivo para cargar pesos y umbrales.</param>
             public void leerArchivoPPM(String rutaArchivo)
             {
                 FileStream archivos;
@@ -185,14 +185,14 @@ namespace IAupt
                     n.Add(int.Parse(elementos[i]));
                 }
 
-                //Variables para almacenar los valores máximos y mínimos de entrada y salida
+                // Variables para almacenar los valores máximos y mínimos de entrada y salida
                 xmax = new double[n[0]];
                 xmin = new double[n[0]];
                 smax = new double[n[C - 1]];
                 smin = new double[n[C - 1]];
 
-                //Se lee la segunda línea que corresponde a los valores máximos y mínimos
-                //de los patrones de entrada
+                // Se lee la segunda línea que corresponde a los valores máximos y mínimos
+                // de los patrones de entrada
                 String texto = leer.ReadLine();
                 String[] datos = texto.Split(' ');
                 j = 0;
@@ -203,8 +203,8 @@ namespace IAupt
                     j += 2;
                 }
 
-                //Se lee la tercera línea que corresponde a los valores máximos y mínimos
-                //de los patrones de salida
+                // Se lee la tercera línea que corresponde a los valores máximos y mínimos
+                // de los patrones de salida
                 texto = leer.ReadLine();
                 datos = texto.Split(' ');
                 j = 0;
@@ -219,7 +219,7 @@ namespace IAupt
 
                 crearRNAupt(arquitectura);
 
-                //A partir de esta línea se leen los pesos
+                // A partir de esta línea se leen los pesos.
                 for (c = 0; c < C - 1; c++)
                     for (j = 0; j < n[c]; j++)
                         for (int i = 0; i < n[c + 1]; i++)
@@ -227,7 +227,7 @@ namespace IAupt
 
                 texto = leer.ReadLine();
 
-                //Apartir de esta línea se leen los umbrales
+                // A partir de esta línea se leen los umbrales.
                 for (c = 1; c <= C - 1; c++)
                     for (int i = 0; i < n[c]; i++)
                         capas[c].neuronas[i].u = Convert.ToDouble(leer.ReadLine());
