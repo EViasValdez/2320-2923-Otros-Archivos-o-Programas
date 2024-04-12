@@ -335,7 +335,7 @@ namespace IAupt
                 this.x = new double[1, x.Length];
                 this.y = new double[1, n[C - 1]];
 
-                //Se normalizan los patrones de entrada y de salida
+                // Se normalizan los patrones de entrada y de salida.
                 for (int i = 0; i < n[0]; i++)
                 {
                     this.x[0, i] = (x[i] - xmin[i]) / (xmax[i] - xmin[i]);
@@ -350,7 +350,7 @@ namespace IAupt
             /// <summary>
             /// Progpaga un patron específoco hasta la capa de salida.
             /// </summary>
-            /// <param name="p">Esecifica el número de patron a propagar.</param>
+            /// <param name="p"> Esecifica el número de patron a propagar.</param>
             public void propagar(int p)
             {
                 int c = 0;
@@ -364,7 +364,7 @@ namespace IAupt
             /// <summary>
             /// Calcula el error cuadrático medio.
             /// </summary>
-            /// <param name="p">Especifica el número de patron.</param>
+            /// <param name="p"> Especifica el número de patron.</param>
             /// <returns></returns>
             public double calcularErrorCM(int p)
             {
@@ -378,7 +378,7 @@ namespace IAupt
             /// <summary>
             /// Calcula los valores delta de cada neurona.
             /// </summary>
-            /// <param name="p">Especifica el número de patrón.</param>
+            /// <param name="p"> Especifica el número de patrón.</param>
             public void retroPropagar(int p)
             {
                 int c = C - 1;
@@ -398,13 +398,13 @@ namespace IAupt
             /// <summary>
             /// Crea la red neuronal.
             /// </summary>
-            /// <param name="N">Especifica el número total de patrones.</param>
-            /// <param name="x">Especifica los patrones de entrada para entrenar.</param>
-            /// <param name="s">Especifica los patrones de salida deseados para entrenar.</param>
-            /// <param name="alfa">Especifica el factor de aprendizaje.</param>
-            /// <param name="errorMinimo">Especifica el error mínimo a alcanzar.</param>
-            /// <param name="numIteraciones">Especifica el número de iteraciones a realizar.</param>
-            /// <param name="arquitectura">Especifica la arquitectura de la red.</param>
+            /// <param name="N"> Especifica el número total de patrones.</param>
+            /// <param name="x"> Especifica los patrones de entrada para entrenar.</param>
+            /// <param name="s"> Especifica los patrones de salida deseados para entrenar.</param>
+            /// <param name="alfa"> Especifica el factor de aprendizaje.</param>
+            /// <param name="errorMinimo"> Especifica el error mínimo a alcanzar.</param>
+            /// <param name="numIteraciones"> Especifica el número de iteraciones a realizar.</param>
+            /// <param name="arquitectura"> Especifica la arquitectura de la red.</param>
             public void crearRNAupt(int N, double[,] x, double[,] s, double alfa, double errorMinimo, int numIteraciones, String arquitectura)
             {
                 this.N = N;
@@ -425,7 +425,7 @@ namespace IAupt
 
                 y = new double[N, n[C - 1]];
 
-                //Variables para almacenar los valores máximos y mínimos de entrada y salida
+                // Variables para almacenar los valores máximos y mínimos de entrada y salida.
                 xmax = new double[n[0]];
                 xmin = new double[n[0]];
                 smax = new double[n[C - 1]];
@@ -443,7 +443,7 @@ namespace IAupt
                     smin[i] = 10000;
                 }
 
-                //Se encuentras los valores máximos y mínimos de x
+                // Se encuentras los valores máximos y mínimos de x.
                 for (i = 0; i < n[0]; i++)
                 {
                     for (p = 0; p < N; p++)
@@ -459,7 +459,7 @@ namespace IAupt
                     }
                 }
 
-                //Se encuentran los valores máximos y mínimos de las salidas deseadas.
+                // Se encuentran los valores máximos y mínimos de las salidas deseadas.
                 for (i = 0; i < n[C - 1]; i++)
                 {
                     for (p = 0; p < N; p++)
@@ -475,7 +475,7 @@ namespace IAupt
                     }
                 }
 
-                //Se normalizan los patrones de entrada y de salida
+                // Se normalizan los patrones de entrada y de salida.
                 for (i = 0; i < n[0]; i++)
                 {
                     for (p = 0; p < N; p++)
@@ -499,7 +499,7 @@ namespace IAupt
             /// <summary>
             /// Crea la red neuronal para reconocer.
             /// </summary>
-            /// <param name="arquitectura">Especifica la arquitectura de la red neurona.</param>
+            /// <param name="arquitectura"> Especifica la arquitectura de la red neurona.</param>
             public void crearRNAupt(String arquitectura)
             {
                 String[] elemento = arquitectura.Split(' ');
@@ -519,7 +519,7 @@ namespace IAupt
             /// <summary>
             /// Guarda los pesos entrenados por la red.
             /// </summary>
-            /// <param name="rutaArchivo">Especifica la ruta del archivo donde se guardarán los pesos y umbrales.</param>
+            /// <param name="rutaArchivo"> Especifica la ruta del archivo donde se guardarán los pesos y umbrales.</param>
             private void guardarPesos(String rutaArchivo)
             {
                 String[] renombrar;
@@ -553,7 +553,7 @@ namespace IAupt
                 escribir.WriteLine();
                 escribir.WriteLine();
 
-                //Almacenar en el archivo los pesos.
+                // Almacenar en el archivo los pesos.
                 for (c = 0; c < C - 1; c++)
                     for (j = 0; j < n[c]; j++)
                         for (i = 0; i < n[c + 1]; i++)
@@ -567,7 +567,7 @@ namespace IAupt
 
                 escribir.WriteLine();
 
-                //Escribir en el archivo la comparación de los valores deseados y obtenidos de la red
+                // Escribir en el archivo la comparación de los valores deseados y obtenidos de la red
                 for (i = 0; i < n[C - 1]; i++)
                     escribir.Write("y[{0}]\t\ts[{1}]", i, i);
 
@@ -631,7 +631,7 @@ namespace IAupt
             /// <summary>
             /// Agrega las neuronas que se requieran a la capa.
             /// </summary>
-            /// <param name="numNeuronas">Especifica el número de neuronas a agregar a la capa.</param>
+            /// <param name="numNeuronas"> Especifica el número de neuronas a agregar a la capa.</param>
             public void agregarNeuronas(int numNeuronas)
             {
                 for (int i = 0; i < numNeuronas; i++)
@@ -643,8 +643,8 @@ namespace IAupt
             /// <summary>
             /// Calcula la activación de cada neurona de la capa de entrada.
             /// </summary>
-            /// <param name="p">Especifica el número de patrón.</param>
-            /// <param name="x">Especifica los patrones de entrada para el entrenamiento.</param>
+            /// <param name="p"> Especifica el número de patrón.</param>
+            /// <param name="x"> Especifica los patrones de entrada para el entrenamiento.</param>
             public void calcularActivacion(int p, double[,] x)
             {
                 for (int i = 0; i < neuronas.Count; i++)
@@ -708,7 +708,7 @@ namespace IAupt
             /// <summary>
             /// Actualiza los pesos y umbrales de toda la red.
             /// </summary>
-            /// <param name="alfa">Especifica el factor de aprendizaje.</param>
+            /// <param name="alfa"> Especifica el factor de aprendizaje.</param>
             public void actualizar(double alfa)
             {
                 for (int i = 0; i < numNeuronas; i++)
@@ -759,9 +759,9 @@ namespace IAupt
             /// <summary>
             /// Crea una neurona.
             /// </summary>
-            /// <param name="nombre">Especifica el nombre de la neurona.</param>
-            /// <param name="numNeuronasCapaSiguiente">Especifica el número de neuronas de la capa siguiente.</param>
-            /// <param name="tipoCapa">Especifica el tipo de capa. 0 = Entrada, 1 = Oculta, 2 = Salida.</param>
+            /// <param name="nombre"> Especifica el nombre de la neurona.</param>
+            /// <param name="numNeuronasCapaSiguiente"> Especifica el número de neuronas de la capa siguiente.</param>
+            /// <param name="tipoCapa"> Especifica el tipo de capa. 0 = Entrada, 1 = Oculta, 2 = Salida.</param>
             public Neurona(String nombre, int numNeuronasCapaSiguiente, int tipoCapa)
             {
                 this.nombre = nombre;
@@ -792,7 +792,7 @@ namespace IAupt
         /// </summary>
         public class Vision
         {
-            private int m, n;    //Dimensiones de la imagen (m=alto n=ancho)
+            private int m, n;    // Dimensiones de la imagen (m=alto n=ancho)
 
             private int factorEscala;
             /// <summary>
@@ -802,7 +802,7 @@ namespace IAupt
 
             byte[] arregloGris;
             int[] arregloBinario;
-            //Contador de etiquetas.
+            // Contador de etiquetas.
 
             private int x, y, xi, yi, xf, yf;
 
@@ -821,7 +821,7 @@ namespace IAupt
             /// <summary>
             /// Método contructor para procesar la imagen a diferente escala.
             /// </summary>
-            /// <param name="factorEscala">Un valor mayor o igual que 1, indica el número de veces que va a dividir la imagen.</param>
+            /// <param name="factorEscala"> Un valor mayor o igual que 1, indica el número de veces que va a dividir la imagen.</param>
             public Vision(int factorEscala)
             {
                 this.factorEscala = factorEscala;
@@ -842,7 +842,7 @@ namespace IAupt
             /// Escala la imagen completa para convertir a escala de gris y binarizar.
             /// La escala corresponde al factor de esala que se ingresa en el método constructor.
             /// </summary>
-            /// <param name="img">Especifica la imagen a escalar.</param>
+            /// <param name="img"> Especifica la imagen a escalar.</param>
             public void escalarCoordenadas(Bitmap img)
             {
                 try
@@ -871,13 +871,13 @@ namespace IAupt
             /// <summary>
             /// Escala un segmento de la imagen para convertir a escala de gris y binarizar.
             /// </summary>
-            /// <param name="img">Especifica la imagen a escalar.</param>
-            /// <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            /// <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            /// <param name="xi">Especifica la coordenada 'x' inicial.</param>
-            /// <param name="yi">Especifica la coordenada 'y' inicial.</param>
-            /// <param name="xf">Especifica la coordenada 'x' final.</param>
-            /// <param name="yf">Especifica la coordenada 'y' final.</param>
+            /// <param name="img"> Especifica la imagen a escalar.</param>
+            /// <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            /// <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            /// <param name="xi"> Especifica la coordenada 'x' inicial.</param>
+            /// <param name="yi"> Especifica la coordenada 'y' inicial.</param>
+            /// <param name="xf"> Especifica la coordenada 'x' final.</param>
+            /// <param name="yf"> Especifica la coordenada 'y' final.</param>
             public void escalarCoordenadas(Bitmap img, int anchoPictureBox, int altoPictureBox, int xi, int yi, int xf, int yf)
             {
                 this.img = new Bitmap(img, img.Width / factorEscala, img.Height / factorEscala);
@@ -899,11 +899,11 @@ namespace IAupt
             /// <summary>
             /// Escala la imagen completa para utilizar el segmentado por color RGB.
             /// </summary>
-            /// <param name="img">Especifica la imagen a escalar.</param>
-            /// <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            /// <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            /// <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
-            /// <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+            /// <param name="img"> Especifica la imagen a escalar.</param>
+            /// <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            /// <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            /// <param name="coordX"> Especifica la coordenada 'x' del pixel de referencia.</param>
+            /// <param name="coordY"> Especifica la coordenada 'y' del pixel de referencia.</param>
             private void escalarCoordenadas(Bitmap img, int anchoPictureBox, int altoPictureBox, int coordX, int coordY)
             {
                 this.img = new Bitmap(img, img.Width / factorEscala, img.Height / factorEscala);
@@ -928,15 +928,15 @@ namespace IAupt
             /// <summary>
             /// Escala un segmento de la imagen para utilizar el segmentado por color RGB.
             /// </summary>
-            /// <param name="img">Especifica la imagen a escalar.</param>
-            /// <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            /// <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            /// <param name="xi">Especifica la coordenada 'x' inicial.</param>
-            /// <param name="yi">Especifica la coordenada 'y' inicial.</param>
-            /// <param name="xf">Especifica la coordenada 'x' final.</param>
-            /// <param name="yf">Especifica la coordenada 'y' final.</param>
-            /// <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
-            /// <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+            /// <param name="img"> Especifica la imagen a escalar.</param>
+            /// <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            /// <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            /// <param name="xi"> Especifica la coordenada 'x' inicial.</param>
+            /// <param name="yi"> Especifica la coordenada 'y' inicial.</param>
+            /// <param name="xf"> Especifica la coordenada 'x' final.</param>
+            /// <param name="yf"> Especifica la coordenada 'y' final.</param>
+            /// <param name="coordX"> Especifica la coordenada 'x' del pixel de referencia.</param>
+            /// <param name="coordY"> Especifica la coordenada 'y' del pixel de referencia.</param>
             private void escalarCoordenadas(Bitmap img, int anchoPictureBox, int altoPictureBox, int xi, int yi, int xf, int yf, int coordX, int coordY)
             {
                 this.img = new Bitmap(img, img.Width / factorEscala, img.Height / factorEscala);
