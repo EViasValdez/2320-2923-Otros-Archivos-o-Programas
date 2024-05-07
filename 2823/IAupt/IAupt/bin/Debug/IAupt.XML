@@ -83,19 +83,19 @@
             <summary>
             Inicializa la red neuronal para aprendizaje o para reconocimiento
             </summary>
-            <param name="rutaArchivo">Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
+            <param name="rutaArchivo"> Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPMC(System.String)">
             <summary>
             Lee un archivo *.pml para entrenar la red neuronal.
             </summary>
-            <param name="rutaArchivo">Especifica la ruta y nombre del archivo para entrenar.</param>
+            <param name="rutaArchivo"> Especifica la ruta y nombre del archivo para entrenar.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPPM(System.String)">
             <summary>
             Lee un archivo *.pml para reconocer un nuevo patron.
             </summary>
-            <param name="rutaArchivo">Especifica la ruta del archivo para cargar pesos y umbrales.</param>
+            <param name="rutaArchivo"> Especifica la ruta del archivo para cargar pesos y umbrales.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.agregarCapas">
             <summary>
@@ -127,44 +127,44 @@
             <summary>
             Progpaga un patron específoco hasta la capa de salida.
             </summary>
-            <param name="p">Esecifica el número de patron a propagar.</param>
+            <param name="p"> Esecifica el número de patron a propagar.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.calcularErrorCM(System.Int32)">
             <summary>
             Calcula el error cuadrático medio.
             </summary>
-            <param name="p">Especifica el número de patron.</param>
+            <param name="p"> Especifica el número de patron.</param>
             <returns></returns>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.retroPropagar(System.Int32)">
             <summary>
             Calcula los valores delta de cada neurona.
             </summary>
-            <param name="p">Especifica el número de patrón.</param>
+            <param name="p"> Especifica el número de patrón.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.Int32,System.Double[0:,0:],System.Double[0:,0:],System.Double,System.Double,System.Int32,System.String)">
             <summary>
             Crea la red neuronal.
             </summary>
-            <param name="N">Especifica el número total de patrones.</param>
-            <param name="x">Especifica los patrones de entrada para entrenar.</param>
-            <param name="s">Especifica los patrones de salida deseados para entrenar.</param>
-            <param name="alfa">Especifica el factor de aprendizaje.</param>
-            <param name="errorMinimo">Especifica el error mínimo a alcanzar.</param>
-            <param name="numIteraciones">Especifica el número de iteraciones a realizar.</param>
-            <param name="arquitectura">Especifica la arquitectura de la red.</param>
+            <param name="N"> Especifica el número total de patrones.</param>
+            <param name="x"> Especifica los patrones de entrada para entrenar.</param>
+            <param name="s"> Especifica los patrones de salida deseados para entrenar.</param>
+            <param name="alfa"> Especifica el factor de aprendizaje.</param>
+            <param name="errorMinimo"> Especifica el error mínimo a alcanzar.</param>
+            <param name="numIteraciones"> Especifica el número de iteraciones a realizar.</param>
+            <param name="arquitectura"> Especifica la arquitectura de la red.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.String)">
             <summary>
             Crea la red neuronal para reconocer.
             </summary>
-            <param name="arquitectura">Especifica la arquitectura de la red neurona.</param>
+            <param name="arquitectura"> Especifica la arquitectura de la red neurona.</param>
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.guardarPesos(System.String)">
             <summary>
             Guarda los pesos entrenados por la red.
             </summary>
-            <param name="rutaArchivo">Especifica la ruta del archivo donde se guardarán los pesos y umbrales.</param>
+            <param name="rutaArchivo"> Especifica la ruta del archivo donde se guardarán los pesos y umbrales.</param>
         </member>
         <member name="T:IAupt.uptRNA.Capa">
             <summary>
@@ -209,14 +209,14 @@
             <summary>
             Agrega las neuronas que se requieran a la capa.
             </summary>
-            <param name="numNeuronas">Especifica el número de neuronas a agregar a la capa.</param>
+            <param name="numNeuronas"> Especifica el número de neuronas a agregar a la capa.</param>
         </member>
         <member name="M:IAupt.uptRNA.Capa.calcularActivacion(System.Int32,System.Double[0:,0:])">
             <summary>
             Calcula la activación de cada neurona de la capa de entrada.
             </summary>
-            <param name="p">Especifica el número de patrón.</param>
-            <param name="x">Especifica los patrones de entrada para el entrenamiento.</param>
+            <param name="p"> Especifica el número de patrón.</param>
+            <param name="x"> Especifica los patrones de entrada para el entrenamiento.</param>
         </member>
         <member name="M:IAupt.uptRNA.Capa.calcularActivacion">
             <summary>
@@ -246,7 +246,7 @@
             <summary>
             Actualiza los pesos y umbrales de toda la red.
             </summary>
-            <param name="alfa">Especifica el factor de aprendizaje.</param>
+            <param name="alfa"> Especifica el factor de aprendizaje.</param>
         </member>
         <member name="T:IAupt.uptRNA.Neurona">
             <summary>
@@ -292,9 +292,9 @@
             <summary>
             Crea una neurona.
             </summary>
-            <param name="nombre">Especifica el nombre de la neurona.</param>
-            <param name="numNeuronasCapaSiguiente">Especifica el número de neuronas de la capa siguiente.</param>
-            <param name="tipoCapa">Especifica el tipo de capa. 0 = Entrada, 1 = Oculta, 2 = Salida.</param>
+            <param name="nombre"> Especifica el nombre de la neurona.</param>
+            <param name="numNeuronasCapaSiguiente"> Especifica el número de neuronas de la capa siguiente.</param>
+            <param name="tipoCapa"> Especifica el tipo de capa. 0 = Entrada, 1 = Oculta, 2 = Salida.</param>
         </member>
         <member name="T:IAupt.uptVC.Vision">
             <summary>
@@ -320,7 +320,7 @@
             <summary>
             Método contructor para procesar la imagen a diferente escala.
             </summary>
-            <param name="factorEscala">Un valor mayor o igual que 1, indica el número de veces que va a dividir la imagen.</param>
+            <param name="factorEscala"> Un valor mayor o igual que 1, indica el número de veces que va a dividir la imagen.</param>
         </member>
         <member name="M:IAupt.uptVC.Vision.asignarMemoria">
             <summary>
@@ -332,43 +332,43 @@
             Escala la imagen completa para convertir a escala de gris y binarizar.
             La escala corresponde al factor de esala que se ingresa en el método constructor.
             </summary>
-            <param name="img">Especifica la imagen a escalar.</param>
+            <param name="img"> Especifica la imagen a escalar.</param>
         </member>
         <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
             <summary>
             Escala un segmento de la imagen para convertir a escala de gris y binarizar.
             </summary>
-            <param name="img">Especifica la imagen a escalar.</param>
-            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            <param name="xi">Especifica la coordenada 'x' inicial.</param>
-            <param name="yi">Especifica la coordenada 'y' inicial.</param>
-            <param name="xf">Especifica la coordenada 'x' final.</param>
-            <param name="yf">Especifica la coordenada 'y' final.</param>
+            <param name="img"> Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            <param name="xi"> Especifica la coordenada 'x' inicial.</param>
+            <param name="yi"> Especifica la coordenada 'y' inicial.</param>
+            <param name="xf"> Especifica la coordenada 'x' final.</param>
+            <param name="yf"> Especifica la coordenada 'y' final.</param>
         </member>
         <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32)">
             <summary>
             Escala la imagen completa para utilizar el segmentado por color RGB.
             </summary>
-            <param name="img">Especifica la imagen a escalar.</param>
-            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
-            <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+            <param name="img"> Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            <param name="coordX"> Especifica la coordenada 'x' del pixel de referencia.</param>
+            <param name="coordY"> Especifica la coordenada 'y' del pixel de referencia.</param>
         </member>
         <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
             <summary>
             Escala un segmento de la imagen para utilizar el segmentado por color RGB.
             </summary>
-            <param name="img">Especifica la imagen a escalar.</param>
-            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
-            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
-            <param name="xi">Especifica la coordenada 'x' inicial.</param>
-            <param name="yi">Especifica la coordenada 'y' inicial.</param>
-            <param name="xf">Especifica la coordenada 'x' final.</param>
-            <param name="yf">Especifica la coordenada 'y' final.</param>
-            <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
-            <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+            <param name="img"> Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox"> Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox"> Especifica el alto del pictureBox.</param>
+            <param name="xi"> Especifica la coordenada 'x' inicial.</param>
+            <param name="yi"> Especifica la coordenada 'y' inicial.</param>
+            <param name="xf"> Especifica la coordenada 'x' final.</param>
+            <param name="yf"> Especifica la coordenada 'y' final.</param>
+            <param name="coordX"> Especifica la coordenada 'x' del pixel de referencia.</param>
+            <param name="coordY"> Especifica la coordenada 'y' del pixel de referencia.</param>
         </member>
         <member name="M:IAupt.uptVC.Vision.rgbAgris">
             <summary>
