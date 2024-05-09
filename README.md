@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- El formato de presentación para este repositorio será completamente difrente.**
+**- El formato de presentación para este repositorio será completamente diferente.**
 
 **- Hacen falta algunos elementos que no he puesto aquí por el momento.**
 <!----Separador de las notas---->
@@ -105,7 +105,7 @@ Por ser descrito.
 
 <!----Separador---->
 
-###### Sitioweb - 22/05/23
+###### SitioWeb - 22/05/23
 Por ser descrito.
 
 <!----Separador---->
@@ -134,4 +134,4 @@ Por ser descrito.
 ###### Proyecto - 00/00/23
 Por ser descrito.
 
-<!----Separador del directorio con descripcion de los programas---->
+<!----Separador del directorio con descripción de los programas---->
