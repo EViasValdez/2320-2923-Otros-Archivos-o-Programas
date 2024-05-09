@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0035754df85cef7cd9f7e4b1824dfa1350afcd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02c678fb47e1f0c22e85e67a1cd29929d4918b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
