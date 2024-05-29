@@ -1,0 +1,77 @@
+<!-- formulario.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario para Crear Alumno</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h2>Formulario para Crear Alumno</h2>
+        <form method="POST" action="{% url 'create' %}">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="matricula">Matrícula:</label>
+                <input type="text" class="form-control" id="matricula" name="matricula" required>
+            </div>
+            <div class="form-group">
+                <label for="nombre">Nombre:</label>
+                <input type="text" class="form-control" id="nombre" name="nombre" required>
+            </div>
+            <div class="form-group">
+                <label for="a_paterno">Apellido Paterno:</label>
+                <input type="text" class="form-control" id="a_paterno" name="a_paterno" required>
+            </div>
+            <div class="form-group">
+                <label for="a_materno">Apellido Materno:</label>
+                <input type="text" class="form-control" id="a_materno" name="a_materno" required>
+            </div>
+            <div class="form-group">
+                <label for="edad">Edad:</label>
+                <input type="number" class="form-control" id="edad" name="edad" required>
+            </div>
+            <div class="form-group">
+                <label for="grupo">Grupo:</label>
+                <input type="text" class="form-control" id="grupo" name="grupo" required>
+            </div>
+            <div class="form-group">
+                <label for="telefono">Teléfono:</label>
+                <input type="tel" class="form-control" id="telefono" name="telefono" required>
+            </div>
+            <div class="form-group">
+                <label for="correo">Correo electrónico:</label>
+                <input type="email" class="form-control" id="correo" name="correo" required>
+            </div>
+            <div class="form-group">
+                <label for="cuatrimestre">Cuatrimestre:</label>
+                <input type="text" class="form-control" id="cuatrimestre" name="cuatrimestre" required>
+            </div>
+            <div class="form-group">
+                <label for="carrera">Carrera:</label>
+                <input type="text" class="form-control" id="carrera" name="carrera" required>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-success mr-2">Crear Alumno</button>
+                <a href="{% url 'index' %}" class="btn btn-danger">Cancelar</a>
+            </div>
+        </form>
+        <br>
+    </div>
+</body>
+<!-- Agrega este script en la cabecera o al final del body -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
+{% if messages %}
+  {% for message in messages %}
+    <script>
+      // Mostrar la alerta de SweetAlert
+      Swal.fire("Éxito", "{{ message }}", "success");
+    </script>
+  {% endfor %}
+{% endif %}
+
+</html>
