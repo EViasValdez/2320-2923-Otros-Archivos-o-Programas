@@ -95,6 +95,11 @@ Proyecto que usa un archivo de nombre .ia para que cuando se ingrese pueda gener
 
 <!----Separador---->
 
+###### AutómatasClases - 16/02/23
+Texto por ser escrito.
+
+<!----Separador---->
+
 ###### EjemploPerceptronMultiCapa - 19/04/23
 Programa que hace uso del perceptrón de capas múltiples.
 
@@ -132,6 +137,11 @@ Por ser descrito.
 <!----Separador---->
 
 ###### Proyecto - 00/00/23
+Por ser descrito.
+
+<!----Separador---->
+
+###### WebServicePython - 24/07/23
 Por ser descrito.
 
 <!----Separador del directorio con descripción de los programas---->
