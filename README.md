@@ -115,6 +115,16 @@ Por ser descrito.
 
 <!----Separador---->
 
+###### BatteryChecker_v2 - 16/04/23
+Por ser descrito.
+
+<!----Separador---->
+
+###### Inteligencia Artificial - 16/04/23
+Por ser descrito.
+
+<!----Separador---->
+
 ###### Ejemplo reconocimiento de objetos - 19/04/23
 Por ser descrito.
 
