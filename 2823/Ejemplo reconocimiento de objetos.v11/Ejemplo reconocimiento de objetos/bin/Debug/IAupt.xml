@@ -125,7 +125,7 @@
         </member>
         <member name="M:IAupt.uptRNA.PerceptronMultiCapa.propagar(System.Int32)">
             <summary>
-            Progpaga un patron específico hasta la capa de salida.
+            Progpaga un patron específoco hasta la capa de salida.
             </summary>
             <param name="p">Esecifica el número de patron a propagar.</param>
         </member>
@@ -395,11 +395,6 @@
             </summary>
             <param name="padre">Representa el padre al que se le van a pasar los hijos del otro padre.</param>
             <param name="hijo">Representa el padre que se va a convertir en hijo.</param>
-        </member>
-        <member name="T:IAupt.uptVC.Etiquetado">
-            <summary>
-            Clase que contiene todas las etiquetas de una imagen.
-            </summary>
         </member>
         <member name="F:IAupt.uptVC.Etiquetado.etiquetas">
             <summary>
