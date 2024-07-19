@@ -137,7 +137,7 @@ Programa desarrollado en Python.
 <!----Separador---->
 
 ###### BuscadorENCRIPTADO - 00/00/23
-Por ser descrito.
+Programa desarrollado tambien en Python pero esta vez esta de manera encriptada.
 
 <!----Separador---->
 
