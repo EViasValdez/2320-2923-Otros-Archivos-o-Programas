@@ -23,7 +23,7 @@ namespace Expresiones
             Console.WriteLine("█ 2. Validar numeros telefonicos    █");
             Console.WriteLine("█ 3. Salir                          █");
             Console.WriteLine("█████████████████████████████████████");
-            Console.WriteLine("Introduzca una Opcion");
+            Console.WriteLine("Introduzca una opcion");
             int Opcion = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Introduzca una cadena");
