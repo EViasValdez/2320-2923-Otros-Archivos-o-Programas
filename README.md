@@ -116,7 +116,7 @@ Por ser descrito.
 <!----Separador---->
 
 ###### BatteryChecker_v2 - 16/04/23
-Por ser descrito.
+Revisador de bateria.
 
 <!----Separador---->
 
