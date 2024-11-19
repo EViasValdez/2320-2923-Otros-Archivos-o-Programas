@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatteryChecker_v2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84cbfcbf2c539f52eb4d5c625f10fdbc6c9d1752")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c019ed8965f24baef3cc40bf328dea1e4ffcf01")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatteryChecker_v2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatteryChecker_v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
