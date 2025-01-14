@@ -55,19 +55,19 @@
             // pbRGB
             // 
             this.pbRGB.Location = new System.Drawing.Point(16, 33);
-            this.pbRGB.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pbRGB.Margin = new System.Windows.Forms.Padding(4);
             this.pbRGB.Name = "pbRGB";
-            this.pbRGB.Size = new System.Drawing.Size(596, 591);
+            this.pbRGB.Size = new System.Drawing.Size(504, 496);
             this.pbRGB.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbRGB.TabIndex = 0;
             this.pbRGB.TabStop = false;
             // 
             // pbGris
             // 
-            this.pbGris.Location = new System.Drawing.Point(620, 33);
-            this.pbGris.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pbGris.Location = new System.Drawing.Point(528, 33);
+            this.pbGris.Margin = new System.Windows.Forms.Padding(4);
             this.pbGris.Name = "pbGris";
-            this.pbGris.Size = new System.Drawing.Size(731, 591);
+            this.pbGris.Size = new System.Drawing.Size(687, 591);
             this.pbGris.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbGris.TabIndex = 1;
             this.pbGris.TabStop = false;
@@ -80,7 +80,7 @@
             this.herramientasToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1364, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1228, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -129,7 +129,7 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(16, 650);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 28);
             this.button3.TabIndex = 12;
@@ -150,7 +150,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(311, 652);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(88, 22);
             this.textBox2.TabIndex = 38;
@@ -159,7 +159,7 @@
             // 
             this.chkFondo.AutoSize = true;
             this.chkFondo.Location = new System.Drawing.Point(748, 655);
-            this.chkFondo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chkFondo.Margin = new System.Windows.Forms.Padding(4);
             this.chkFondo.Name = "chkFondo";
             this.chkFondo.Size = new System.Drawing.Size(112, 20);
             this.chkFondo.TabIndex = 40;
@@ -170,7 +170,7 @@
             // txtArea
             // 
             this.txtArea.Location = new System.Drawing.Point(575, 654);
-            this.txtArea.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtArea.Margin = new System.Windows.Forms.Padding(4);
             this.txtArea.Name = "txtArea";
             this.txtArea.Size = new System.Drawing.Size(132, 22);
             this.txtArea.TabIndex = 41;
@@ -200,7 +200,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1364, 693);
+            this.ClientSize = new System.Drawing.Size(1228, 693);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtArea);
@@ -212,7 +212,7 @@
             this.Controls.Add(this.pbRGB);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";

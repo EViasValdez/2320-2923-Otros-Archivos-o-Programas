@@ -72,3 +72,10 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\bin\Debug\IAupt.XML
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\bin\Debug\IAupt.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\bin\Debug\IAupt.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\obj\Debug\IAupt.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\obj\Debug\IAupt.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\obj\Debug\IAupt.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\IAupt\IAupt\obj\Debug\IAupt.pdb
