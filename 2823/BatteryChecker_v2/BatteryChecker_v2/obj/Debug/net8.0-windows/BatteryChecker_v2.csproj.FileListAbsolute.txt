@@ -1,0 +1,8 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\BatteryChecker_v2\BatteryChecker_v2\obj\Debug\net8.0-windows\BatteryChecker_v2.sourcelink.json
