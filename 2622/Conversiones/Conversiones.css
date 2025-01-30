@@ -1,14 +1,17 @@
 body {
     background-color: rgba(0, 148, 0);
 }
+
 @font-face {
     font-family: "Qualio";
     src: url("Fuentes/Qualio.otf");
 }
+
 @font-face  {
     font-family: "Kermesse";
     src: url("Fuentes/Kermesse.ttf");
 }
+
 @keyframes animacion-arriba {
     0% {
       opacity: 0;
@@ -26,6 +29,7 @@ body {
       transform: translateY(0%);
     }
 }
+
 @keyframes animacion-abajo {
     0% {
       opacity: 0;
@@ -43,6 +47,7 @@ body {
       transform: translateY(0%);
     }
 }
+
 #Titulo {
     color: rgba(255, 255, 255);
     text-align: center;
@@ -50,6 +55,7 @@ body {
     font-size: 48px;
     font-weight: bolder;
 }
+
 #Subtitulo {
     color: rgba(255, 255, 255);
     text-align: center;
@@ -57,6 +63,7 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
+
 #Numero {
     color: rgba(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
@@ -67,6 +74,7 @@ body {
     margin: 0px auto;
     display: block;
 }
+
 #Seleccion {
     color: rgba(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
@@ -78,6 +86,7 @@ body {
     display: block;
     transition: ease-in-out 0.2s;
 }
+
 #Seleccion:hover {
     color: rgba(0,0,0);
     background-color: rgba(255, 255, 255);
@@ -89,6 +98,7 @@ body {
     display: block;
     transition: ease-in-out 0.2s;
 }
+
 #Conversion {
     color: rgba(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
@@ -99,6 +109,7 @@ body {
     margin: 0px auto;
     display: block;
 }
+
 #Conversion:active {
     color: rgba(255, 255, 255);
     background-color: rgba(255, 255, 255);
@@ -109,6 +120,7 @@ body {
     margin: 0px auto;
     display: block;
 }
+
 #Resultado {
     color: rgba(255, 255, 255);
     background-color: rgba(255, 255, 255, 0);
