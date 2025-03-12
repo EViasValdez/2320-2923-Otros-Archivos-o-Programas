@@ -129,4 +129,3 @@
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
     }
 }
-

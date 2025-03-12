@@ -162,4 +162,3 @@
         private System.Windows.Forms.ListBox lstY;
     }
 }
-
