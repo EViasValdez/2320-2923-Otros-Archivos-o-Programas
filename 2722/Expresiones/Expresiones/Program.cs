@@ -25,9 +25,9 @@ namespace Expresiones
             Console.WriteLine("█████████████████████████████████████");
             Console.WriteLine("Introduzca una opcion");
             int Opcion = int.Parse(Console.ReadLine());
-
             Console.WriteLine("Introduzca una cadena");
             string Cadena = Console.ReadLine();
+            
             switch (Opcion)
             {
                 case 1:
