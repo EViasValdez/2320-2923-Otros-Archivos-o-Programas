@@ -9,7 +9,8 @@ function Funcion1() {
     {
         alert("No ha ingresado ningun valor");
     }
-    else {
+    else
+    {
         var RProb;
 
         RProb = Probabilidad + Division;
