@@ -36,7 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnEntrenar
+            // btnEntrenar.
             // 
             this.btnEntrenar.Location = new System.Drawing.Point(51, 33);
             this.btnEntrenar.Name = "btnEntrenar";
@@ -46,7 +46,7 @@
             this.btnEntrenar.UseVisualStyleBackColor = true;
             this.btnEntrenar.Click += new System.EventHandler(this.BtnEntrenar_Click);
             // 
-            // btnReconocer
+            // btnReconocer.
             // 
             this.btnReconocer.Location = new System.Drawing.Point(51, 92);
             this.btnReconocer.Name = "btnReconocer";
@@ -56,11 +56,11 @@
             this.btnReconocer.UseVisualStyleBackColor = true;
             this.btnReconocer.Click += new System.EventHandler(this.BtnReconocer_Click);
             // 
-            // serialPort1
+            // serialPort1.
             // 
             this.serialPort1.PortName = "COM5";
             // 
-            // label1
+            // label1.
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(66, 148);
@@ -69,7 +69,7 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "10";
             // 
-            // label2
+            // label2.
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(69, 178);
@@ -78,7 +78,7 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "1";
             // 
-            // Form1
+            // Form1.
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;

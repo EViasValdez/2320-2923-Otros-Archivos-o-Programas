@@ -52,7 +52,7 @@
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // pbRGB
+            // pbRGB.
             // 
             this.pbRGB.Location = new System.Drawing.Point(16, 33);
             this.pbRGB.Margin = new System.Windows.Forms.Padding(4);
@@ -62,7 +62,7 @@
             this.pbRGB.TabIndex = 0;
             this.pbRGB.TabStop = false;
             // 
-            // pbGris
+            // pbGris.
             // 
             this.pbGris.Location = new System.Drawing.Point(528, 33);
             this.pbGris.Margin = new System.Windows.Forms.Padding(4);
@@ -72,7 +72,7 @@
             this.pbGris.TabIndex = 1;
             this.pbGris.TabStop = false;
             // 
-            // menuStrip1
+            // menuStrip1.
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -84,7 +84,7 @@
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // archivoToolStripMenuItem
+            // archivoToolStripMenuItem.
             // 
             this.archivoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirImagenToolStripMenuItem,
@@ -93,7 +93,7 @@
             this.archivoToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
             this.archivoToolStripMenuItem.Text = "&Archivo";
             // 
-            // abrirImagenToolStripMenuItem
+            // abrirImagenToolStripMenuItem.
             // 
             this.abrirImagenToolStripMenuItem.Name = "abrirImagenToolStripMenuItem";
             this.abrirImagenToolStripMenuItem.Size = new System.Drawing.Size(366, 26);
@@ -107,7 +107,7 @@
             this.abrirArchivoPesosPerceptronToolStripMenuItem.Text = "Abrir archivo pesos perceptron multicapa";
             this.abrirArchivoPesosPerceptronToolStripMenuItem.Click += new System.EventHandler(this.abrirArchivoPesosPerceptronToolStripMenuItem_Click);
             // 
-            // herramientasToolStripMenuItem
+            // herramientasToolStripMenuItem.
             // 
             this.herramientasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.extraerMomentosHuToolStripMenuItem});
@@ -115,18 +115,18 @@
             this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
             this.herramientasToolStripMenuItem.Text = "Herramientas";
             // 
-            // extraerMomentosHuToolStripMenuItem
+            // extraerMomentosHuToolStripMenuItem.
             // 
             this.extraerMomentosHuToolStripMenuItem.Name = "extraerMomentosHuToolStripMenuItem";
             this.extraerMomentosHuToolStripMenuItem.Size = new System.Drawing.Size(236, 26);
             this.extraerMomentosHuToolStripMenuItem.Text = "Extraer Momentos Hu";
             this.extraerMomentosHuToolStripMenuItem.Click += new System.EventHandler(this.ExtraerMomentosHuToolStripMenuItem_Click);
             // 
-            // abrir
+            // abrir.
             // 
             this.abrir.FileName = "openFileDialog1";
             // 
-            // button3
+            // button3.
             // 
             this.button3.Location = new System.Drawing.Point(16, 650);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
@@ -137,7 +137,7 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // hsbUmbral
+            // hsbUmbral.
             // 
             this.hsbUmbral.Location = new System.Drawing.Point(620, 628);
             this.hsbUmbral.Maximum = 255;
@@ -147,7 +147,7 @@
             this.hsbUmbral.Value = 93;
             this.hsbUmbral.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hsbUmbral_Scroll);
             // 
-            // textBox2
+            // textBox2.
             // 
             this.textBox2.Location = new System.Drawing.Point(311, 652);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4);
@@ -155,7 +155,7 @@
             this.textBox2.Size = new System.Drawing.Size(88, 22);
             this.textBox2.TabIndex = 38;
             // 
-            // chkFondo
+            // chkFondo.
             // 
             this.chkFondo.AutoSize = true;
             this.chkFondo.Location = new System.Drawing.Point(748, 655);
@@ -167,7 +167,7 @@
             this.chkFondo.UseVisualStyleBackColor = true;
             this.chkFondo.CheckedChanged += new System.EventHandler(this.chkFondo_CheckedChanged);
             // 
-            // txtArea
+            // txtArea.
             // 
             this.txtArea.Location = new System.Drawing.Point(575, 654);
             this.txtArea.Margin = new System.Windows.Forms.Padding(4);
@@ -176,7 +176,7 @@
             this.txtArea.TabIndex = 41;
             this.txtArea.Text = "100";
             // 
-            // label1
+            // label1.
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(408, 656);
@@ -186,7 +186,7 @@
             this.label1.TabIndex = 42;
             this.label1.Text = "Área mínima en pixeles:";
             // 
-            // label2
+            // label2.
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(124, 657);
