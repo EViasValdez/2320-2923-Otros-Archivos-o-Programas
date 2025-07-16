@@ -51,3 +51,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploP.F5F6B832.Up2Date
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe.config

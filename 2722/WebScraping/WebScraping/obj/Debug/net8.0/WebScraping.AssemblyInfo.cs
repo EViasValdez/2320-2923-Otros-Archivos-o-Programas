@@ -14,9 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29787015a457fa1774bb25fb5662d0825aec7b70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a2af9a38352cde77e741fccbe25e536ee9788fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebScraping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
+

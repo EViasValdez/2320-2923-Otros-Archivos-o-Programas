@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj",
         "projectName": "BusquedaBinaria",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\BusquedaBinaria.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\BusquedaBinaria\\BusquedaBinaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

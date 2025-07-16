@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
       "projectName": "ArbolBinario2",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2320\\Estructuras de Datos Avanzadas\\ArbolBinario2\\ArbolBinario2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1252,11 +1252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Mineria-de-Datos\\PruebaML\\PruebaML\\PruebaML.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2923\\Mineria de datos\\PruebaML\\PruebaML\\PruebaML.csproj",
       "projectName": "PruebaML",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Mineria-de-Datos\\PruebaML\\PruebaML\\PruebaML.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2923\\Mineria de datos\\PruebaML\\PruebaML\\PruebaML.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2923-Mineria-de-Datos\\PruebaML\\PruebaML\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-2923-Otros-Archivos-o-Programas\\2923\\Mineria de datos\\PruebaML\\PruebaML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1321,7 +1321,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,2 +1,4 @@
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

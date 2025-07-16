@@ -30,3 +30,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\Graficar\Graficar\obj\Debug\Graficar.exe.config

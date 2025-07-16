@@ -19,3 +19,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\WindowsFormsApp1.exe.config
