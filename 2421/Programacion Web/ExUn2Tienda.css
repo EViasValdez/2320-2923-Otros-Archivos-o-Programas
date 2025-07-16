@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(281deg, rgba(71,15,15,1) 0%, rgba(157,7,7,1) 100%);;
+}
+
+#NombrePag {
+    text-align: center;
+    font-size: 82px;
+    font-family: "Secular One";
+    font-weight: bolder;
+    color: rgba(255, 255, 255);
+}
+
+#SubtituloPag {
+    text-align: center;
+    font-size: 24px;
+    font-family: "Kulim Park";
+    color: rgba(255, 255, 255);
+}
+
+#TablaProductos {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Kulim Park";
+    width: 800px;
+    height: 100px;
+    border-collapse: collapse;
+    border: 2px solid rgba(255, 255, 255);
+    color: rgba(255, 255, 255);
+}
+#Boton1, #Boton2, #Boton3, #Boton4, #Boton5 {
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid rgba(255, 255, 255);
+    color: rgba(255, 255, 255);
+    background-color:transparent;
+}
+
+#Boton1:active, #Boton2:active, #Boton3:active, #Boton4:active, #Boton5:active {
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid rgba(255, 255, 255);
+    color: transparent;
+    background-color: rgba(255, 255, 255)
+}
+
+#TablaCarro {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Kulim Park";
+    width: 400px;
+    height: 100px;
+    border-collapse: collapse;
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+#Resultado {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Kulim Park";
+}
