@@ -14,9 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff0e59d942e067d3ba17f0ef1f73a6f6de486c31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6614d1955f3d2af532b47609ff5bb0345fd79fc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
+
