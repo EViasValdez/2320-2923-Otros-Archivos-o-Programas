@@ -41,7 +41,7 @@ namespace ArbolBinarioArray
         {
             Console.WriteLine("Ingrese el valor del nodo raíz:");
             int Raiz = int.Parse(Console.ReadLine());
-
+            
             Array1[0] = Raiz;
 
             string Resp;

@@ -12,7 +12,7 @@ namespace ArbolBinario2
         {
             Console.Write("Ingrese el valor del nodo raíz");
 			int Raiz = int.Parse(Console.ReadLine());
-
+			
       		int[] Array1 = new int[0];
       		int[] Array2 = new int[0];
       		int[] Array3 = new int[0];
@@ -47,7 +47,7 @@ namespace ArbolBinario2
 					// Temporal
 					Resp = "S";
 				}
-			
+
 				if (Resp == "N")
 				{
 					do
@@ -63,7 +63,7 @@ namespace ArbolBinario2
 						Array3[1] = Nodo;
 					}
 				}
-				// Temporal
+				// Temporal.
 				Resp = "N";
 			}
 			if (Resp == "N")
