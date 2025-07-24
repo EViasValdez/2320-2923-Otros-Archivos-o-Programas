@@ -1,4 +1,4 @@
-﻿namespace Ejemplo_reconocimiento_de_objetos
+﻿namespace EjemploReconocimientodeObjetos
 {
     partial class Form1
     {

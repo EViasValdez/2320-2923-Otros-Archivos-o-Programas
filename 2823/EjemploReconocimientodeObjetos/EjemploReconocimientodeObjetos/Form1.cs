@@ -14,7 +14,7 @@ using System.Diagnostics;
 using IAupt;
 using System.Threading;
 
-namespace Ejemplo_reconocimiento_de_objetos
+namespace EjemploReconocimientodeObjetos
 {
     public partial class Form1 : Form
     {
