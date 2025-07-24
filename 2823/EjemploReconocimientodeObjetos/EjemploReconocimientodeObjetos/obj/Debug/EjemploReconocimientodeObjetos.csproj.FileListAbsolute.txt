@@ -1,0 +1,5 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploReconocimientodeObjetos\EjemploReconocimientodeObjetos\obj\Debug\EjemploReconocimientodeObjetos.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploReconocimientodeObjetos\EjemploReconocimientodeObjetos\obj\Debug\EjemploReconocimientodeObjetos.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploReconocimientodeObjetos\EjemploReconocimientodeObjetos\obj\Debug\EjemploReconocimientodeObjetos.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploReconocimientodeObjetos\EjemploReconocimientodeObjetos\obj\Debug\EjemploReconocimientodeObjetos.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\EjemploReconocimientodeObjetos\EjemploReconocimientodeObjetos\obj\Debug\EjemploReconocimientodeObjetos.csproj.CoreCompileInputs.cache

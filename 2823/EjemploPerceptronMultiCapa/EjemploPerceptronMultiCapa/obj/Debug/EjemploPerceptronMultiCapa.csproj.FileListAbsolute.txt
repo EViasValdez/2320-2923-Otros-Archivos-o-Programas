@@ -1,31 +1,3 @@
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe.config
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.pdb
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.dll
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.pdb
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.xml
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csprojAssemblyReference.cache
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Form1.resources
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Properties.Resources.resources
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.GenerateResource.cache
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CoreCompileInputs.cache
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CopyComplete
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
-D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe.config
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.pdb
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.pdb
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.xml
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.AssemblyReference.cache
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.SuggestedBindingRedirects.cache
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Form1.resources
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Properties.Resources.resources
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.GenerateResource.cache
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CoreCompileInputs.cache
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CopyComplete
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
-C:\Users\FERNANDOMEJIA\Desktop\IAUPT-master\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe.config
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2823-Otros-Archivos-o-Programas\2823\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.pdb
