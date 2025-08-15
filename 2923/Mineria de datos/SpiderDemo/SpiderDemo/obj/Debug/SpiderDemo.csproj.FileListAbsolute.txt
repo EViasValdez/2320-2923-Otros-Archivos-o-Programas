@@ -10,3 +10,8 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDem
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2923-Mineria-de-Datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb

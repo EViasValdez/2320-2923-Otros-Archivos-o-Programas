@@ -153,3 +153,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoS.ECD2C704.Up2Date
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\ConsumoServicio\ConsumoServicio\obj\Debug\ConsumoServicio.exe.config
