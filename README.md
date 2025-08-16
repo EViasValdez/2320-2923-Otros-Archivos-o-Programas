@@ -44,7 +44,7 @@ Se utiliza la base de datos anterior para poder realizar consultas.
 <!----Separador---->
 
 ## 2421
-Esta carpeta solo tiene un archivo que se hizo en SQL.
+Esta carpeta solo tiene un archivo que se hizo en SQL y un proyecto de examen de programacion web.
 
 ###### departamentos - 19/07/2022
 La tabla está dividida entre código, nombre y departamento, con el valor de código como llave primaria.
