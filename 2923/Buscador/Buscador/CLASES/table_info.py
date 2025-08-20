@@ -25,10 +25,10 @@ class TableInfo:
             query = f"DESCRIBE {table_name}"
             cursor.execute(query)
 
-            # Contar el número de columnas
+            # Contar el nï¿½mero de columnas
             num_fields = len(cursor.fetchall())
 
-            # Cerrar la conexión y el cursor
+            # Cerrar la conexiï¿½n y el cursor
             cursor.close()
             cnx.close()
 
@@ -60,5 +60,3 @@ class TableInfo:
 
         except mysql.connector.Error as err:
             print("Error al conectar a la base de datos:", err)
-
-
