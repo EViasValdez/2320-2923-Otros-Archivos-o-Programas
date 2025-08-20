@@ -5,7 +5,7 @@
 
 **- El formato de presentación para este repositorio será completamente diferente.**
 
-**- Hacen falta algunos elementos que no he puesto aquí por el momento.**
+**- Hacen falta algunos elementos que no pude archivar.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
