@@ -142,7 +142,7 @@ Programa desarrollado tambien en Python pero esta vez esta de manera encriptada.
 <!----Separador---->
 
 ###### ConsumoServicio - 00/00/23
-Por ser descrito.
+Servicio de consumo en un programa de Python.
 
 <!----Separador---->
 
