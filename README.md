@@ -116,7 +116,7 @@ Por ser descrito.
 <!----Separador---->
 
 ###### BatteryChecker_v2 - 16/04/23
-Revisador de bateria.
+Revisador de batería.
 
 <!----Separador---->
 
@@ -137,7 +137,7 @@ Programa desarrollado en Python.
 <!----Separador---->
 
 ###### BuscadorENCRIPTADO - 00/00/23
-Programa desarrollado tambien en Python pero esta vez esta de manera encriptada.
+Programa desarrollado también en Python pero esta vez esta de manera encriptada.
 
 <!----Separador---->
 
