@@ -15,3 +15,10 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\SpiderDemo.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\bin\Debug\HtmlAgilityPack.xml
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2923\Mineria de datos\SpiderDemo\SpiderDemo\obj\Debug\SpiderDemo.csproj.Up2Date

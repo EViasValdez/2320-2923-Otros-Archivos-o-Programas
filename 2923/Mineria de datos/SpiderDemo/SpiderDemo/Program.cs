@@ -11,7 +11,7 @@ namespace SpiderDemo
     {
         static async Task Main(string[] args)
         {
-            Spider Busqeuda = new Spider();
+            Spider Busqueda = new Spider();
             List<Car> Car  = await Busqueda.Start();
             
             Console.WriteLine();
