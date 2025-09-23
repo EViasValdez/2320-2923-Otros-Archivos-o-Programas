@@ -20,7 +20,7 @@ int main()
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--   Bienvenido al Programa de ecuaciones diferenciales   --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
-        cout<< "   //--            Seleccione el metodo de solucion            --//  \n";
+        cout<< "   //--            Seleccione el método de solución            --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--                                                        --//  \n";
         cout<< "   //--      1. Euler Mejorado                                 --//  \n";
