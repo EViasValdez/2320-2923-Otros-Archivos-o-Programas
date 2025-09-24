@@ -7,6 +7,6 @@
         
     if (!$conectar)
     {
-        die("Error de coneccion: ".mysqli_connect_error());
+        die("Error de conexión: ".mysqli_connect_error());
     }
 ?>

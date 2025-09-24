@@ -10,7 +10,8 @@ $cantidad = $_POST['cantidad'];
 $sql = "UPDATE almacen SET nombre =  '$nombres', tipo = '$tipo',cantidad = '$cantidad' WHERE id = '$id'";
 $query = mysqli_query($con,$sql);
 
-if ($query) {
-        Header("Location:../view/home.php");
-    }
+if ($query)
+{
+    Header("Location:../view/home.php");
+}
 ?>

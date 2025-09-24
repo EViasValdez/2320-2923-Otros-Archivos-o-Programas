@@ -29,9 +29,9 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 	x = 1;
 	y = 8;
 	cout<< "\n";
-	cout<< " Bienvenido al Programa de Newton \n";
+	cout<< " Bienvenido al programa de Newton \n";
 	cout<< " f(x) = x ^ 2 - 9x + 9 = 0                 \n";
-	cout<< " Bienvenido al Programa de Newton  \n";
+	cout<< " Bienvenido al programa de Newton  \n";
 	cout<< " x = 1; \n\n";
 	for (int i = 0; i < 5; i++)
 	{
@@ -39,7 +39,7 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 		cout<< "   //--      " << "x" << x << "\n";
 	}
 	cout<< "\n\n";
-	cout<< "   //--            Bienvenido al Programa de Newton            --//  \n";
+	cout<< "   //--            Bienvenido al programa de Newton            --//  \n";
 	cout<< "   //--                         x=8;                           --//  \n\n";
 	
 	for (int i = 0; i < 5; i++)
