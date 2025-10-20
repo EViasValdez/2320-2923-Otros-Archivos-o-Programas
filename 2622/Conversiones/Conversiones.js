@@ -6,7 +6,7 @@ function conversion() {
 
     if (numero = "")
     {
-        alert("No ha ingresado ningun valor");
+        alert("No ha ingresado ningún valor");
     }
     else
     {

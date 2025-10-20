@@ -28,7 +28,7 @@ int main()
         cout<< "   //--      3. Newton                                        --//  \n";
         cout<< "   //--      0. Salir                                          --//  \n";
         cout<< "   //--                                                        --//  \n";
-        cout<< "   //--      Opcion: ";
+        cout<< "   //--      Opción: ";
         cin>>op;
 
         if (op == 1)
