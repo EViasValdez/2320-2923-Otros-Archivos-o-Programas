@@ -10,7 +10,7 @@ print(f"La tabla sys_roles tiene {num_fields} campos.")
 # Obtener los resultados de la consulta.
 Results = Table_Info.Results()
 
-# Crear un conjunto vacio para almacenar los resultados.
+# Crear un conjunto vació para almacenar los resultados.
 result_set = set()
 
 # Iterar sobre los resultados y agregarlos al conjunto.

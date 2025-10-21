@@ -28,7 +28,7 @@ class TableInfo:
             # Contar el n�mero de columnas
             num_fields = len(cursor.fetchall())
 
-            # Cerrar la conexi�n y el cursor
+            # Cerrar la conexion y el cursor
             cursor.close()
             cnx.close()
 
