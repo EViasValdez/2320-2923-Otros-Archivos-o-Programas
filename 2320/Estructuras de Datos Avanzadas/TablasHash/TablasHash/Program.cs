@@ -61,7 +61,7 @@ namespace TablasHash
 
             if (Tipo == 1)
             {
-                Console.WriteLine("Ingrese el Id a buscar");
+                Console.WriteLine("Ingrese el ID a buscar");
                 int ValorBuscado = int.Parse(Console.ReadLine());
 
                 if (Tb.Contains(ValorBuscado))

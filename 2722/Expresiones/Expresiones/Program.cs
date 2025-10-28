@@ -20,12 +20,12 @@ namespace Expresiones
             Console.WriteLine("█ Programa de expresiones regulares █");
             Console.WriteLine("█████████████████████████████████████");
             Console.WriteLine("█ 1. Validar nombres                █");
-            Console.WriteLine("█ 2. Validar numeros telefonicos    █");
+            Console.WriteLine("█ 2. Validar números telefónicos    █");
             Console.WriteLine("█ 3. Salir                          █");
             Console.WriteLine("█████████████████████████████████████");
             Console.WriteLine(" ");
 
-            Console.WriteLine("Introduzca una opcion");
+            Console.WriteLine("Introduzca una opción");
             int Opcion = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduzca una cadena");
             string Cadena = Console.ReadLine();
@@ -45,7 +45,7 @@ namespace Expresiones
                 break;
                 
                 default:
-                    Console.WriteLine("Opcion no valida por favor intente de nuevo");
+                    Console.WriteLine("Opción no valida por favor intente de nuevo");
                     Console.ReadLine();
                     Console.Clear();
                     Menu();
@@ -55,7 +55,7 @@ namespace Expresiones
         public static void url(string Cadena)
         {
             string pattern = "^[A-Z][a-zA-Z]+$";
-            Console.Write($"La expresion regular a validar es: {pattern}");
+            Console.Write($"La expresión regular a validar es: {pattern}");
             Console.WriteLine("");
             try
             {
@@ -86,7 +86,7 @@ namespace Expresiones
         public static void numero(string Cadena)
         {
             string pattern = "([+52]|)((\\s?[0-9]{3}(-?|\\s?)){2}[0-9]{4}|(\\s?[0-9]{2}(-?|\\s?)){4}[0-9]{2})";
-            Console.Write($"La expresion regular a validar es: {pattern}");
+            Console.Write($"La expresión regular a validar es: {pattern}");
             Console.WriteLine("");
             try
             {

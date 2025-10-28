@@ -54,7 +54,7 @@ namespace BusquedaSecuencial
 
             list.Add("Juan");
             list.Add("Francisco");
-            list.Add("Johana");
+            list.Add("Johanna");
             list.Add("Alexis");
             list.Add("Johan");
             list.Add("Luis");

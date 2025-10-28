@@ -25,7 +25,7 @@ void euler(int y, double x, double h, double k1, double k2, double k3, double k4
 }
 	
 void newton(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
-	cout << "Bienvenido a newton: "<<endl;
+	cout << "Bienvenido a Newton: "<<endl;
 	x = 1;
 	y = 8;
 	cout<< "\n";
@@ -88,7 +88,7 @@ int main(int argc, char * argv[]) {
 
 	while (ex == 0) {
 		cout<<"Bienvenido"<<endl;
-		cout<<"Menu"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.Metodo nuevo"<<endl<<"4.Salir"<<endl<<"R = ";
+		cout<<"Menu"<<endl<<"1.Euler"<<endl<<"2.Newton"<<endl<<"3.Método nuevo"<<endl<<"4.Salir"<<endl<<"R = ";
 			
 		cin>>entrada;
 			

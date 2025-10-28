@@ -44,7 +44,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(472, 36);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Ingrese una expresion regular";
+            this.label1.Text = "Ingrese una expresión regular";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // ResultadosTabla
@@ -99,7 +99,7 @@
             this.Controls.Add(this.ResultadosTabla);
             this.Controls.Add(this.label1);
             this.Name = "AnalizadorLexico";
-            this.Text = "Analizador lexico";
+            this.Text = "Analizador léxico";
             this.Load += new System.EventHandler(this.AnalizadorLexico_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ResultadosTabla)).EndInit();
             this.ResumeLayout(false);

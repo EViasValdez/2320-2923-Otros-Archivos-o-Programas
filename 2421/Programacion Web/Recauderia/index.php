@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Inicia Sesion a tu Inventario</title>
+  <title>Inicia sesion a tu Inventario</title>
   <!-- Flaticon -->
   <link rel="shortcut icon" href="view/images/vegetal.png" type="image/x-icon">
   <!--- Bootstrap CSS -->
@@ -44,7 +44,7 @@
           </div>
 
           <div class="my-3">
-            <span>¿Tienes problemas? <a href="#">Da click aqui</a></span>
+            <span>¿Tienes problemas? <a href="#">Da click aquí</a></span>
           </div>
 
         </form>

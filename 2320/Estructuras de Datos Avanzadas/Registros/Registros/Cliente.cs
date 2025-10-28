@@ -20,7 +20,7 @@ namespace Registros
 			string Nombres = Console.ReadLine();
 			Console.WriteLine("Ingrese apellidos");
 			string Apellidos = Console.ReadLine();
-			Console.WriteLine("Ingrese telefono");
+			Console.WriteLine("Ingrese teléfono");
 			string Telefono = Console.ReadLine();
 			Console.WriteLine("Ingrese correo");
 			string Correo = Console.ReadLine();
