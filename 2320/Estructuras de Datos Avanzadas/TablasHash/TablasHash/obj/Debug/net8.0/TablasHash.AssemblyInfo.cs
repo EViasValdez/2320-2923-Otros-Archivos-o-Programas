@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TablasHash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac171da8bd02312fe8fcf78c9a70b9716ee0dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137a7d8ee0c277792145a89e78e45243f8c013da")]
 [assembly: System.Reflection.AssemblyProductAttribute("TablasHash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TablasHash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
