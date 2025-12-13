@@ -101,7 +101,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### EjemploPerceptronMultiCapa - 19/04/23
-Programa que hace uso del perceptrón de capas múltiples.
+Programa que hace uso del perceptron de capas múltiples.
 
 <!----Separador---->
 
