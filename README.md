@@ -147,11 +147,11 @@ Servicio de consumo en un programa de Python.
 <!----Separador---->
 
 ###### Proyecto - 00/00/23
-Por ser descrito.
+Descripción en proceso.
 
 <!----Separador---->
 
 ###### WebServicePython - 24/07/23
-Por ser descrito.
+Descripción en proceso.
 
 <!----Separador del directorio con descripción de los programas---->
