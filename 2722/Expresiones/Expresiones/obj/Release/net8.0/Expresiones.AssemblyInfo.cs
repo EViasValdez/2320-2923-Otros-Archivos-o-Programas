@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Expresiones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137a7d8ee0c277792145a89e78e45243f8c013da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1bdd0c1fb8e0ea48cfc6306df5335ec3fab145")]
 [assembly: System.Reflection.AssemblyProductAttribute("Expresiones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Expresiones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
