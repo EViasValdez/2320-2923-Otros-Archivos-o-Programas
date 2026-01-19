@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1bdd0c1fb8e0ea48cfc6306df5335ec3fab145")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a09d563937fb5454f7430445bca4375e7673d97c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
