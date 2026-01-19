@@ -1,13 +1,13 @@
-# Otros archivos o programas de cuatrimestres.
+# Otros archivos o programas.
 
 <!----Descripción---->
-Por ser escrita.
+Estos son varios programas que hice en otras materias que no necesitaban un repositorio aparte.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
 
-**- El formato de presentación para este repositorio será completamente diferente.**
+**- El formato de presentación para este repositorio es diferente.**
 
 **- Hacen falta algunos elementos que no pude archivar.**
 <!----Separador de las notas---->
