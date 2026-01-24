@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         #region Constructor
         /// <sumary
-        /// constructor vacio
+        /// constructor vació
         /// </sumary
         /// 
 
