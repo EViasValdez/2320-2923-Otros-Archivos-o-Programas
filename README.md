@@ -110,7 +110,7 @@ Programa que hace uso del perceptron de capas múltiples.
 <!----Separador---->
 
 ###### IAupt - 19/04/23
-Por ser descrito.
+Pequeño programa de Deep learning creado por nuestro profesor.
 
 <!----Separador---->
 
@@ -120,12 +120,12 @@ Por ser descrito.
 <!----Separador---->
 
 ###### BatteryChecker_v2 - 16/04/23
-Revisador de batería.
+Revision de batería.
 
 <!----Separador---->
 
 ###### Inteligencia Artificial - 16/04/23
-Por ser descrito.
+Utilizacion de un paquete creado por medio de IAupt.
 
 <!----Separador---->
 
