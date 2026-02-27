@@ -6,7 +6,6 @@ Estos son varios programas que hice en otras materias que no necesitaban un repo
 
 <!----Notas---->
 **Notas**
-
 **- El formato de presentación para este repositorio es diferente.**
 
 **- Hacen falta algunos elementos que no pude archivar.**
