@@ -99,6 +99,7 @@ namespace Expresiones
                 Console.WriteLine("2 - No");
                 
                 int Opc = int.Parse(Console.ReadLine());
+                
                 if (Opc == 1)
                 {
                     Menu();
