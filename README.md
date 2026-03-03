@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Estos son varios programas que hice en otras materias que no necesitaban un repositorio aparte.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas**
