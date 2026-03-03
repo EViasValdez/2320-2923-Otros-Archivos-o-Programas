@@ -19,3 +19,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.Properties.Resources.resources
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-2923-Otros-Archivos-o-Programas\2823\LogicaDifusa\LogicaDifusa\obj\Debug\LogicaDifusa.exe.config
