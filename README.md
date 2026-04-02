@@ -124,7 +124,7 @@ Revision de batería.
 <!----Separador---->
 
 ###### Inteligencia Artificial - 16/04/23
-Utilizacion de un paquete creado por medio de IAupt.
+Utilización de un paquete creado por medio de IAupt.
 
 <!----Separador---->
 
