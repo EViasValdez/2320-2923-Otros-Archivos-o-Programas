@@ -114,7 +114,7 @@ Pequeño programa de Deep learning creado por nuestro profesor.
 <!----Separador---->
 
 ###### SitioWeb - 22/05/23
-Por ser descrito.
+Diseño de una pagina de una tienda de tecnología.
 
 <!----Separador---->
 
