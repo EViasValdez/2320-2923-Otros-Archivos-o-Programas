@@ -46,6 +46,11 @@ Se utiliza la base de datos anterior para poder realizar consultas.
 
 <!----Separador---->
 
+## 2320 | Estructura de Datos Avanzadas
+Originalmente esto era un repositorio separado, pero se movió aquí ya que no eran muchos archivos.
+
+<!----Separador---->
+
 ## 2421
 Esta carpeta solo tiene un archivo que se hizo en SQL y un proyecto que se hizo que fue un examen de programación web.
 
