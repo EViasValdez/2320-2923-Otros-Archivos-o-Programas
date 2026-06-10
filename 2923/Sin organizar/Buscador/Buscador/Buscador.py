@@ -3,7 +3,7 @@ import mysql.connector
 from CLASES.Table_Info import TableInfo
 
 # Uso de la clase TableInfo.
-Table_Info = TableInfo('localhost', 'root', '', 'odapas')
+Table_Info = TableInfo('localhost', 'root', '', 'Odapas')
 num_fields = Table_Info.get_num_fields('sys_roles')
 print(f"La tabla sys_roles tiene {num_fields} campos.")
 
