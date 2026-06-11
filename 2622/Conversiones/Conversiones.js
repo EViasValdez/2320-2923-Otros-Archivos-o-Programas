@@ -1,4 +1,4 @@
-﻿function accion() {
+﻿function Accion() {
     conversion();
 }
 function conversion() {

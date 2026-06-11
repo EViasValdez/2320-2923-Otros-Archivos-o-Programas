@@ -7,7 +7,7 @@ import mysql.connector
 from CLASES.table_info  import TableInfo
 
 # Uso de la clase TableInfo
-table_info = TableInfo('localhost', 'root', '', 'odapas')
+table_info = TableInfo('localhost', 'root', '', 'Odapas')
 num_fields = table_info.get_num_fields('sys_roles')
 print(f"La tabla sys_roles tiene {num_fields} campos.")
 
@@ -24,7 +24,7 @@ def cargar_calve():
 # Obtener los resultados de la consulta
 Resultados = table_info.Resultados()
 
-# Crear un conjunto vac�o para almacenar los resultados
+# Crear un conjunto vació para almacenar los resultados
 result_set = set()
 
 # Iterar sobre los resultados y agregarlos al conjunto
@@ -47,7 +47,7 @@ num_results = len(Resultados)
 print(f"Hay {num_results} resultados en el campo sys_roles.")
 print("\n")
 
-# Proseso de encriptacion 
+# Proceso de encriptacion.
 # Crear y guardar clave 
 genera_clave()
 
@@ -57,7 +57,7 @@ clave = cargar_calve()
 # Encriptar mensaje
 msg = ''.join(result_list).encode()
 
-# Inicioamos 
+# Inicio.
 f = Fernet(clave)
 
 # Encriptamos mensaje 
@@ -67,7 +67,7 @@ encriptado = f.encrypt(msg)
 print("\n mensaje encriptado")
 print(encriptado)
 
-# Desencriptado
+# Desencriptado.
 Desencriptado = f.decrypt(encriptado)
 
 # Mensaje original 
