@@ -6,7 +6,7 @@
 using namespace std;
 
 void euler(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc,double Ini, double Res, double Lim, double R, double R1) {
-	cout << "Bienvenido al programa de euler: "<<endl;
+	cout << "Bienvenido al programa de Euler: "<<endl;
 	
 	cout<<"INCREMENTO: "; cin>>Inc; cout<<endl;
 	y = 0;
@@ -50,7 +50,7 @@ void newton(int y, double x, double h, double k1, double k2, double k3, double k
 }
 
 void rk4(int y, double x, double h, double k1, double k2, double k3, double k4, double c, double Inc, double Ini, double Res, double Lim, double R, double R1) {
-	cout<< "Bienvenido al Programa de RUNGE KUTA   \n";
+	cout<< "Bienvenido al Programa de RUNGE-KUTA   \n";
 	cout<< " y' = 2xy, y (1) = 1; y (1.5)  \n";
 	cout<< "INGRESE EL INCREMENTO\n";
 	cout<< "INCREMENTO: ";

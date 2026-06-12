@@ -42,18 +42,18 @@
       public $Tipo;
 
       public function Camara() {
-        return $this->Proposito = "Fotografia";
+        return $this->Proposito = "Fotografía";
         return $this->Modelo = "C80";
         return $this->Color = "Azul";
         return $this->Marca = "Canon";
         return $this->Tipo = "Semiprofesional";
       }
       public function Celular() {
-        return $this->Proposito = "Telefonia celular";
+        return $this->Proposito = "Telefonía celular";
         return $this->Modelo = "R12";
         return $this->Color = "Negro";
         return $this->Marca = "Samsung";
-        return $this->Tipo = "Una sola camara";
+        return $this->Tipo = "Una sola cámara";
       }
     }
 ?>
