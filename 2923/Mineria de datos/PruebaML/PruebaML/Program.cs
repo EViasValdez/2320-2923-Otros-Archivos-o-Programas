@@ -10,7 +10,7 @@ namespace PruebaML
     {
         static void Main(string[] args)
         {
-            // Load sample data (Carga de datos de ejemplo).
+            // Load sample data (carga de datos de ejemplo).
             var SampleData = new ML.ModelInput()
             {
                 Gender = @"Female",
@@ -23,7 +23,7 @@ namespace PruebaML
                 Blood_glucose_level = 80F,
             };
 
-            // Load model and predict output (Carga de modelo y salida).
+            // Load model and predict output (carga de modelo y salida).
             var Result = ML.Predict(SampleData);
             var Resultado = Result.Score * 100;
             Console.WriteLine("Probabilidad " + Resultado + "%");
