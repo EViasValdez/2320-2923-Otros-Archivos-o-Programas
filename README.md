@@ -17,7 +17,7 @@ Estos son varios programas que hice en otras materias que no necesitaban un repo
 En esta carpeta la mayoría de los archivos son SQL en formato MariaDB (casi todos los que hice durante la materia de base de datos), otros archivos se encuentran en otros repositorios relacionados.
 
 ###### primaria_benito_juarez - 22/06/20
-Base de datos que era para simular una primaria.
+Base de datos que era para integrar la informacion de una escuela primaria.
 
 <!----Separador---->
 
