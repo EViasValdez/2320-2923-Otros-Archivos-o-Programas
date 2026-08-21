@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49441b6608b759d9cc81219980e514b230220f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74f6240398af9562a113317111bf497fe1a3540")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArbolBinario2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
