@@ -9,6 +9,8 @@ Estos son varios programas que hice en otras materias que no necesitaban un repo
 **- El formato de presentación para este repositorio es diferente.**
 
 **- Hacen falta algunos elementos que no pude archivar.**
+
+**- De los de 2923 no tengo fechas especificas para los proyectos.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
