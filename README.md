@@ -116,7 +116,7 @@ Programa que hace uso del perceptron de capas múltiples.
 <!----Separador---->
 
 ###### IAupt - 19/04/23
-Pequeño programa de Deep learning creado por nuestro profesor.
+Pequeño programa de Deep learning creado por nuestro profesor (no funciona de manera apropiada).
 
 <!----Separador---->
 
