@@ -26,6 +26,7 @@ namespace PruebaML
             // Load model and predict output (carga de modelo y salida).
             var Result = ML.Predict(SampleData);
             var Resultado = Result.Score * 100;
+            
             Console.WriteLine("Probabilidad " + Resultado + "%");
         }
     }
