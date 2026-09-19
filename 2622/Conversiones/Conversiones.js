@@ -11,6 +11,6 @@ function conversion() {
     else
     {
         console.log(Number(numero).toString(2));
-        // document.getElementById("Resultado").value=(numero);
+        // document.getElementById("Resultado").value = (numero);
     }
 }
