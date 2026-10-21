@@ -23,7 +23,7 @@ int main()
         cout<< "   //--            Seleccione el método de solución            --//  \n";
         cout<< "   //------------------------------------------------------------//  \n";
         cout<< "   //--                                                        --//  \n";
-        cout<< "   //--      1. Euler Mejorado                                 --//  \n";
+        cout<< "   //--      1. Euler mejorado                                 --//  \n";
         cout<< "   //--      2. Runge-Kuta                                     --//  \n";
         cout<< "   //--      3. Newton                                        --//  \n";
         cout<< "   //--      0. Salir                                          --//  \n";
@@ -121,7 +121,7 @@ int main()
 			cout<< "   //--                                                        --//  \n";
 			cout<< "   //------------------------------------------------------------//  \n";
 			cout<< "   //--            Bienvenido al programa de Newton            --//  \n";
-			cout<< "   //--                         x = 1;                           --//  \n\n";
+			cout<< "   //--                         x = 1;                         --//  \n\n";
 			for (int i = 0; i < 5; i++)
 			{
 				x = x - (((x * x) - (9 * x) + 9)/(2 * x - 9));
