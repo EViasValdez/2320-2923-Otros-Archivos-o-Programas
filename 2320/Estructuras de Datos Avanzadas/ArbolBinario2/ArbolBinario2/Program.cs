@@ -44,7 +44,7 @@ namespace ArbolBinario2
 					Nodo = int.Parse(Console.ReadLine());
 					Array3[0] = Nodo;
 
-					// Temporal
+					// Temporal.
 					Resp = "S";
 				}
 
