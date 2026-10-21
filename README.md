@@ -162,6 +162,6 @@ Descripción en proceso.
 <!----Separador---->
 
 ###### WebServicePython - 24/07/23
-Descripción en proceso.
+Servicio en linea via Python.
 
 <!----Separador del directorio con descripción de los programas---->
