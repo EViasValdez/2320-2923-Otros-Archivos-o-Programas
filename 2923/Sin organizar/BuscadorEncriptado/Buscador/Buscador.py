@@ -47,7 +47,7 @@ num_results = len(Resultados)
 print(f"Hay {num_results} resultados en el campo sys_roles.")
 print("\n")
 
-# Proceso de encriptacion.
+# Proceso de encriptación.
 # Crear y guardar clave 
 genera_clave()
 
