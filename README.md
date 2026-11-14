@@ -116,7 +116,7 @@ Programa que hace uso del perceptron de capas múltiples.
 <!----Separador---->
 
 ###### IAupt - 19/04/23
-Pequeño programa de Deep learning creado por nuestro profesor (no funciona de manera apropiada, cada vez que trato de abrirlo en Visual Studio Community me sale un error).
+Pequeño programa de Deep learning creado por nuestro profesor (no funciona de manera apropiada, cada vez que trato de abrirlo en Visual Studio Community sale un error que dice que no es una solución compatible).
 
 <!----Separador---->
 
